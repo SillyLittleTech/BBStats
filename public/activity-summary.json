@@ -1,763 +1,257 @@
 {
   "topBlocked": [
     {
-      "name": "www.googletagmanager.com",
-      "count": 35
-    },
-    {
-      "name": "assets.adobedtm.com",
-      "count": 8
-    },
-    {
       "name": "googleads.g.doubleclick.net",
+      "count": 18
+    },
+    {
+      "name": "graph.facebook.com",
+      "count": 14
+    },
+    {
+      "name": "www.googletagmanager.com",
+      "count": 7
+    },
+    {
+      "name": "cdn.branch.io",
+      "count": 7
+    },
+    {
+      "name": "api.segment.io",
+      "count": 6
+    },
+    {
+      "name": "www.google-analytics.com",
       "count": 4
     },
     {
       "name": "static.doubleclick.net",
-      "count": 3
+      "count": 4
     },
     {
-      "name": "api.segment.io",
+      "name": "mads.amazon-adsystem.com",
+      "count": 2
+    },
+    {
+      "name": "api2.branch.io",
       "count": 2
     }
   ],
   "topBlockedNormalized": [
     {
-      "name": "googletagmanager.com",
-      "count": 35
-    },
-    {
-      "name": "adobedtm.com",
-      "count": 8
-    },
-    {
       "name": "doubleclick.net",
+      "count": 22
+    },
+    {
+      "name": "facebook.com",
+      "count": 14
+    },
+    {
+      "name": "branch.io",
+      "count": 9
+    },
+    {
+      "name": "googletagmanager.com",
       "count": 7
     },
     {
       "name": "segment.io",
+      "count": 6
+    },
+    {
+      "name": "google-analytics.com",
+      "count": 4
+    },
+    {
+      "name": "amazon-adsystem.com",
       "count": 2
     }
   ],
+  "totals": {
+    "blocked": 64,
+    "allowed": 6936
+  },
   "topQueries": [
     {
-      "name": "discord.com",
-      "count": 171
-    },
-    {
-      "name": "gue1-spclient.spotify.com",
-      "count": 168
-    },
-    {
       "name": "spclient.wg.spotify.com",
-      "count": 158
+      "count": 237
     },
     {
-      "name": "fmfmobile.fe2.apple-dns.net",
-      "count": 158
-    },
-    {
-      "name": "ptb.discord.com",
-      "count": 125
-    },
-    {
-      "name": "connectivity.cloudflareclient.com",
-      "count": 111
-    },
-    {
-      "name": "mtalk.google.com",
-      "count": 103
+      "name": "discord.com",
+      "count": 234
     },
     {
       "name": "www.cloudflarestatus.com",
-      "count": 102
+      "count": 171
+    },
+    {
+      "name": "fmfmobile.fe2.apple-dns.net",
+      "count": 130
     },
     {
       "name": "cdn.discordapp.com",
-      "count": 97
+      "count": 127
     },
     {
-      "name": "mask.apple-dns.net",
-      "count": 89
+      "name": "i.scdn.co",
+      "count": 120
+    },
+    {
+      "name": "connectivity.cloudflareclient.com",
+      "count": 112
+    },
+    {
+      "name": "time.cloudflare.com",
+      "count": 111
+    },
+    {
+      "name": "p2p-lax1.discovery.steamserver.net",
+      "count": 109
+    },
+    {
+      "name": "gue1-spclient.spotify.com",
+      "count": 108
     }
   ],
-  "totals": {
-    "blocked": 52,
-    "allowed": 6948
-  },
+  "topBlockedTotals": [
+    {
+      "name": "googleads.g.doubleclick.net",
+      "blockedCount": 18,
+      "totalCount": 18
+    },
+    {
+      "name": "graph.facebook.com",
+      "blockedCount": 14,
+      "totalCount": 66
+    },
+    {
+      "name": "www.googletagmanager.com",
+      "blockedCount": 7,
+      "totalCount": 7
+    },
+    {
+      "name": "cdn.branch.io",
+      "blockedCount": 7,
+      "totalCount": 7
+    },
+    {
+      "name": "api.segment.io",
+      "blockedCount": 6,
+      "totalCount": 6
+    },
+    {
+      "name": "www.google-analytics.com",
+      "blockedCount": 4,
+      "totalCount": 4
+    },
+    {
+      "name": "static.doubleclick.net",
+      "blockedCount": 4,
+      "totalCount": 4
+    },
+    {
+      "name": "mads.amazon-adsystem.com",
+      "blockedCount": 2,
+      "totalCount": 2
+    },
+    {
+      "name": "api2.branch.io",
+      "blockedCount": 2,
+      "totalCount": 2
+    }
+  ],
+  "topBlockedNormalizedTotals": [
+    {
+      "name": "doubleclick.net",
+      "blockedCount": 22,
+      "totalCount": 22
+    },
+    {
+      "name": "facebook.com",
+      "blockedCount": 14,
+      "totalCount": 208
+    },
+    {
+      "name": "branch.io",
+      "blockedCount": 9,
+      "totalCount": 9
+    },
+    {
+      "name": "googletagmanager.com",
+      "blockedCount": 7,
+      "totalCount": 7
+    },
+    {
+      "name": "segment.io",
+      "blockedCount": 6,
+      "totalCount": 6
+    },
+    {
+      "name": "google-analytics.com",
+      "blockedCount": 4,
+      "totalCount": 4
+    },
+    {
+      "name": "amazon-adsystem.com",
+      "blockedCount": 2,
+      "totalCount": 2
+    }
+  ],
   "blockedSamples": [
     {
-      "domain": "assets.adobedtm.com",
-      "timestamp": "2025-10-07T12:25:32.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:25:32.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "assets.adobedtm.com",
-      "timestamp": "2025-10-07T12:25:32.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:25:32.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:25:32.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:24:15.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:24:15.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:24:15.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:24:15.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:24:15.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:24:15.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:24:11.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:24:11.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:24:11.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:24:11.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:24:11.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:24:11.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "assets.adobedtm.com",
-      "timestamp": "2025-10-07T12:24:04.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "assets.adobedtm.com",
-      "timestamp": "2025-10-07T12:24:04.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "assets.adobedtm.com",
-      "timestamp": "2025-10-07T12:24:04.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "assets.adobedtm.com",
-      "timestamp": "2025-10-07T12:24:04.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "assets.adobedtm.com",
-      "timestamp": "2025-10-07T12:24:04.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "assets.adobedtm.com",
-      "timestamp": "2025-10-07T12:24:04.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:22:46.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:22:46.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:22:46.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:22:46.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:22:46.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:22:46.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:22:46.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:22:46.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:22:46.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:22:46.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:19:58.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:19:58.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:19:58.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:19:58.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:19:58.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:19:58.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:16:18.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:16:18.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:10:20.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:10:20.000Z",
+      "domain": "googleads.g.doubleclick.net",
+      "timestamp": "2025-10-07T19:47:24.000Z",
       "decision": "blockedRule",
       "action": null
     },
     {
       "domain": "api.segment.io",
-      "timestamp": "2025-10-04T12:07:46.000Z",
+      "timestamp": "2025-10-07T19:28:18.000Z",
       "decision": "blockedRule",
       "action": null
     },
     {
-      "domain": "api.segment.io",
-      "timestamp": "2025-10-04T12:07:46.000Z",
+      "domain": "www.googletagmanager.com",
+      "timestamp": "2025-10-06T19:46:31.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "mads.amazon-adsystem.com",
+      "timestamp": "2025-10-06T19:24:51.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "www.google-analytics.com",
+      "timestamp": "2025-10-05T19:17:37.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "api2.branch.io",
+      "timestamp": "2025-10-04T19:47:14.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "cdn.branch.io",
+      "timestamp": "2025-10-04T19:29:00.000Z",
       "decision": "blockedRule",
       "action": null
     },
     {
       "domain": "static.doubleclick.net",
-      "timestamp": "2025-10-04T11:56:23.000Z",
+      "timestamp": "2025-10-04T19:26:41.000Z",
       "decision": "blockedRule",
       "action": null
-    },
-    {
-      "domain": "static.doubleclick.net",
-      "timestamp": "2025-10-04T11:56:23.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "static.doubleclick.net",
-      "timestamp": "2025-10-04T11:56:23.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "googleads.g.doubleclick.net",
-      "timestamp": "2025-10-03T11:02:53.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "googleads.g.doubleclick.net",
-      "timestamp": "2025-10-03T11:02:53.000Z",
-      "decision": "blockedRule",
-      "action": null
-    }
-  ],
-  "allBlocked": [
-    {
-      "domain": "assets.adobedtm.com",
-      "timestamp": "2025-10-07T12:25:32.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "assets.adobedtm.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:25:32.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "assets.adobedtm.com",
-      "timestamp": "2025-10-07T12:25:32.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "assets.adobedtm.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:25:32.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:25:32.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:24:15.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:24:15.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:24:15.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:24:15.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:24:15.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:24:15.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:24:11.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:24:11.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:24:11.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:24:11.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:24:11.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-07T12:24:11.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "assets.adobedtm.com",
-      "timestamp": "2025-10-07T12:24:04.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "assets.adobedtm.com"
-    },
-    {
-      "domain": "assets.adobedtm.com",
-      "timestamp": "2025-10-07T12:24:04.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "assets.adobedtm.com"
-    },
-    {
-      "domain": "assets.adobedtm.com",
-      "timestamp": "2025-10-07T12:24:04.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "assets.adobedtm.com"
-    },
-    {
-      "domain": "assets.adobedtm.com",
-      "timestamp": "2025-10-07T12:24:04.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "assets.adobedtm.com"
-    },
-    {
-      "domain": "assets.adobedtm.com",
-      "timestamp": "2025-10-07T12:24:04.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "assets.adobedtm.com"
-    },
-    {
-      "domain": "assets.adobedtm.com",
-      "timestamp": "2025-10-07T12:24:04.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "assets.adobedtm.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:22:46.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:22:46.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:22:46.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:22:46.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:22:46.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:22:46.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:22:46.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:22:46.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:22:46.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:22:46.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:19:58.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:19:58.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:19:58.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:19:58.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:19:58.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:19:58.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:16:18.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:16:18.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:10:20.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2025-10-04T12:10:20.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "www.googletagmanager.com"
-    },
-    {
-      "domain": "api.segment.io",
-      "timestamp": "2025-10-04T12:07:46.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "api.segment.io"
-    },
-    {
-      "domain": "api.segment.io",
-      "timestamp": "2025-10-04T12:07:46.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "api.segment.io"
-    },
-    {
-      "domain": "static.doubleclick.net",
-      "timestamp": "2025-10-04T11:56:23.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "static.doubleclick.net"
-    },
-    {
-      "domain": "static.doubleclick.net",
-      "timestamp": "2025-10-04T11:56:23.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "static.doubleclick.net"
-    },
-    {
-      "domain": "static.doubleclick.net",
-      "timestamp": "2025-10-04T11:56:23.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "static.doubleclick.net"
-    },
-    {
-      "domain": "googleads.g.doubleclick.net",
-      "timestamp": "2025-10-03T11:02:53.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "googleads.g.doubleclick.net"
-    },
-    {
-      "domain": "googleads.g.doubleclick.net",
-      "timestamp": "2025-10-03T11:02:53.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "googleads.g.doubleclick.net"
-    },
-    {
-      "domain": "googleads.g.doubleclick.net",
-      "timestamp": "2025-10-02T12:19:58.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "googleads.g.doubleclick.net"
-    },
-    {
-      "domain": "googleads.g.doubleclick.net",
-      "timestamp": "2025-10-02T12:19:58.000Z",
-      "decision": "blockedRule",
-      "action": null,
-      "query": "googleads.g.doubleclick.net"
     }
   ],
   "meta": {
-    "originalRangeKey": "fetch-7d",
-    "originalRangeLabel": "Fetched last 7 days",
-    "requestedRangeKey": "fetch-7d",
-    "requestedRangeLabel": "Fetched last 7 days",
+    "originalRangeKey": "7d",
+    "originalRangeLabel": "Last 7 days",
+    "requestedRangeKey": "7d",
+    "requestedRangeLabel": "Last 7 days",
     "effectiveRangeKey": "7d",
     "effectiveRangeLabel": "Last ~6 days",
     "segmentsPlanned": 7,
@@ -766,26 +260,26 @@
     "segmentsFailed": 0,
     "fallbackUsed": false,
     "messages": [
-      "Segment 1/7 – range fetch-7d (from=2025-10-07T12:28:35.000Z, to=2025-10-08T12:28:35.000Z)",
+      "Segment 1/7 – range 7d (from=2025-10-07T19:51:43.000Z, to=2025-10-08T19:51:43.000Z)",
       "Segment 1 returned 1000 logs (accumulated 1000).",
-      "Segment 2/7 – range fetch-7d (from=2025-10-06T12:28:35.000Z, to=2025-10-07T12:28:35.000Z)",
+      "Segment 2/7 – range 7d (from=2025-10-06T19:51:43.000Z, to=2025-10-07T19:51:43.000Z)",
       "Segment 2 returned 1000 logs (accumulated 2000).",
-      "Segment 3/7 – range fetch-7d (from=2025-10-05T12:28:35.000Z, to=2025-10-06T12:28:35.000Z)",
+      "Segment 3/7 – range 7d (from=2025-10-05T19:51:43.000Z, to=2025-10-06T19:51:43.000Z)",
       "Segment 3 returned 1000 logs (accumulated 3000).",
-      "Segment 4/7 – range fetch-7d (from=2025-10-04T12:28:35.000Z, to=2025-10-05T12:28:35.000Z)",
+      "Segment 4/7 – range 7d (from=2025-10-04T19:51:43.000Z, to=2025-10-05T19:51:43.000Z)",
       "Segment 4 returned 1000 logs (accumulated 4000).",
-      "Segment 5/7 – range fetch-7d (from=2025-10-03T12:28:35.000Z, to=2025-10-04T12:28:35.000Z)",
+      "Segment 5/7 – range 7d (from=2025-10-03T19:51:43.000Z, to=2025-10-04T19:51:43.000Z)",
       "Segment 5 returned 1000 logs (accumulated 5000).",
-      "Segment 6/7 – range fetch-7d (from=2025-10-02T12:28:35.000Z, to=2025-10-03T12:28:35.000Z)",
+      "Segment 6/7 – range 7d (from=2025-10-02T19:51:43.000Z, to=2025-10-03T19:51:43.000Z)",
       "Segment 6 returned 1000 logs (accumulated 6000).",
-      "Segment 7/7 – range fetch-7d (from=2025-10-01T12:28:35.000Z, to=2025-10-02T12:28:35.000Z)",
+      "Segment 7/7 – range 7d (from=2025-10-01T19:51:43.000Z, to=2025-10-02T19:51:43.000Z)",
       "Segment 7 returned 1000 logs (accumulated 7000).",
-      "Completed range fetch-7d: gathered 7000 logs across 7/7 segments."
+      "Completed range 7d: gathered 7000 logs."
     ],
     "totalLogs": 7000,
-    "fetchedAt": 1759926529434,
-    "fetchedAtIso": "2025-10-08T12:28:49.434Z",
-    "fetchedCount": 614,
-    "fetchedBlocked": 52
+    "fetchedAt": 1759953141987,
+    "fetchedAtIso": "2025-10-08T19:52:21.987Z",
+    "fetchedCount": 669,
+    "fetchedBlocked": 64
   }
 }

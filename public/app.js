@@ -188,7 +188,35 @@ async function loadSummary(requestedRange, options = {}) {
       }
     }
 
-    renderTable(payload.topBlocked ?? []);
+    // Prefer a normalized/aggregated topBlocked (added by CI script). Fall back to legacy topBlocked.
+    let tableRows = payload.topBlockedNormalized ?? payload.topBlocked ?? [];
+
+  // If the aggregated list is tiny (1 or 0 entries), try blockedSamples; if still tiny, fall back to topQueries
+  if ((!Array.isArray(tableRows) || tableRows.length <= 1) && Array.isArray(payload.blockedSamples) && payload.blockedSamples.length) {
+      const counts = {};
+      payload.blockedSamples.forEach((s) => {
+        const d = s.domain || 'unknown';
+        counts[d] = (counts[d] || 0) + 1;
+      });
+      const derived = Object.entries(counts).map(([name, count]) => ({ name, count }));
+      derived.sort((a, b) => b.count - a.count);
+
+      // Merge aggregated tableRows (if any) with derived samples, summing counts for same names
+      const mergedMap = new Map();
+      (Array.isArray(tableRows) ? tableRows : []).forEach((r) => mergedMap.set(r.name, (mergedMap.get(r.name) || 0) + (r.count || 0)));
+      derived.forEach((r) => mergedMap.set(r.name, (mergedMap.get(r.name) || 0) + (r.count || 0)));
+
+      const merged = Array.from(mergedMap.entries()).map(([name, count]) => ({ name, count }));
+      merged.sort((a, b) => b.count - a.count);
+      tableRows = merged.slice(0, 10);
+    }
+
+    // If we still have very few rows, fall back to topQueries (most frequent overall destinaton)
+    if ((!Array.isArray(tableRows) || tableRows.length <= 1) && Array.isArray(payload.topQueries) && payload.topQueries.length) {
+      tableRows = payload.topQueries.slice(0, 10);
+    }
+
+    renderTable(tableRows);
     try {
       renderChart(payload.totals ?? {});
     } catch (chartError) {
@@ -229,6 +257,37 @@ async function loadSummary(requestedRange, options = {}) {
       return;
     }
     console.error('Failed to load activity summary:', error);
+    // Try to fall back to the static summary file if available
+    try {
+      const staticResp = await fetch('./activity-summary.json', { cache: 'no-store' });
+      if (staticResp.ok) {
+        const staticPayload = await staticResp.json();
+        const staticRows = staticPayload.topBlockedNormalized ?? staticPayload.topBlocked ?? [];
+        if ((!staticRows || staticRows.length === 0) && Array.isArray(staticPayload.blockedSamples) && staticPayload.blockedSamples.length) {
+          const counts = {};
+          staticPayload.blockedSamples.forEach((s) => {
+            const d = s.domain || 'unknown';
+            counts[d] = (counts[d] || 0) + 1;
+          });
+          const derived = Object.entries(counts).map(([name, count]) => ({ name, count }));
+          derived.sort((a, b) => b.count - a.count);
+          renderTable(derived.slice(0, 10));
+        } else {
+          renderTable(staticRows);
+        }
+        try {
+          renderChart(staticPayload.totals ?? {});
+        } catch (chartError) {
+          console.warn('Unable to render fallback chart:', chartError);
+        }
+        setStatus('Unable to fetch live data; showing last known summary.', 'error');
+        return;
+      }
+    } catch (staticErr) {
+      // ignore and continue to show empty fallback
+      console.warn('Static fallback unavailable or invalid:', staticErr);
+    }
+
     renderTable([]);
     try {
       renderChart({ blocked: 0, allowed: 0 });

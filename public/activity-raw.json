@@ -1,0 +1,4341 @@
+[
+  {
+    "query": "googleads.g.doubleclick.net",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759866444,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      1,
+      66
+    ],
+    "initial_category_ids": [
+      1,
+      66
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 711,
+    "metal_id": 104,
+    "resolved_ips": [
+      "2607:f8b0:400f:803::2002"
+    ],
+    "authoritative_nameserver_ips": [
+      "2001:4860:4802:34::a"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "baa82c0b6767421583e312761807870f",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "googleads.g.doubleclick.net",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759866444,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      1,
+      66
+    ],
+    "initial_category_ids": [
+      1,
+      66
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 711,
+    "metal_id": 104,
+    "resolved_ips": [
+      "142.250.72.34"
+    ],
+    "authoritative_nameserver_ips": [
+      "216.239.38.10"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "2c6e64cdcceb4c7fa4a8425ad978d2b3",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "googleads.g.doubleclick.net",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759866138,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      1,
+      66
+    ],
+    "initial_category_ids": [
+      1,
+      66
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 711,
+    "metal_id": 104,
+    "resolved_ips": [
+      "2607:f8b0:400f:804::2002"
+    ],
+    "authoritative_nameserver_ips": [
+      "216.239.38.10"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "d0228b30165240ecae42c0b01d68d3cb",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "googleads.g.doubleclick.net",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759866138,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      1,
+      66
+    ],
+    "initial_category_ids": [
+      1,
+      66
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 711,
+    "metal_id": 104,
+    "resolved_ips": [
+      "142.250.72.2"
+    ],
+    "authoritative_nameserver_ips": [
+      "216.239.32.10"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "a33aa02489044afb87c328d05970058c",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "api.segment.io",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759865298,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      3,
+      75
+    ],
+    "initial_category_ids": [
+      3,
+      75
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 711,
+    "metal_id": 104,
+    "resolved_ips": [
+      "100.21.127.115",
+      "44.246.57.203",
+      "44.231.35.67"
+    ],
+    "authoritative_nameserver_ips": [
+      "2600:9000:5301:9400::1"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US",
+      "US",
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "55240cfa5e3e4f7ead59e5c5776dcbb2",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "api.segment.io",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759865298,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      3,
+      75
+    ],
+    "initial_category_ids": [
+      3,
+      75
+    ],
+    "rdata": [],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 711,
+    "metal_id": 104,
+    "resolved_ips": [],
+    "authoritative_nameserver_ips": [
+      "2600:9000:5301:9400::1"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [],
+    "resolved_continent_codes": [],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "9f62b7e72267413984a753ca56e7d102",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "www.googletagmanager.com",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759779991,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      26,
+      81
+    ],
+    "initial_category_ids": [
+      26,
+      81
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 712,
+    "metal_id": 27,
+    "resolved_ips": [
+      "2607:f8b0:4023:1002::61"
+    ],
+    "authoritative_nameserver_ips": [
+      "2001:4860:4802:38::a"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "7e6dd011e12d4225a4dec43277ab804a",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "www.googletagmanager.com",
+    "query_type": "HTTPS",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759779991,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      26,
+      81
+    ],
+    "initial_category_ids": [
+      26,
+      81
+    ],
+    "rdata": [],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 712,
+    "metal_id": 27,
+    "resolved_ips": [],
+    "authoritative_nameserver_ips": [
+      "216.239.32.10"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [],
+    "resolved_continent_codes": [],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "b90466440a2a4532bf7b72c268723f26",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "www.googletagmanager.com",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759779991,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      26,
+      81
+    ],
+    "initial_category_ids": [
+      26,
+      81
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 712,
+    "metal_id": 27,
+    "resolved_ips": [
+      "142.250.114.97"
+    ],
+    "authoritative_nameserver_ips": [
+      "2001:4860:4802:32::a"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "7aaa15a0a8f94924ac233b3acb73d8bb",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "googleads.g.doubleclick.net",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759779085,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      1,
+      66
+    ],
+    "initial_category_ids": [
+      1,
+      66
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 712,
+    "metal_id": 27,
+    "resolved_ips": [
+      "2607:f8b0:400f:802::2002"
+    ],
+    "authoritative_nameserver_ips": [
+      "2001:4860:4802:34::a"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "84a3e257fbdf4ceb833c333bd2d1030e",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "googleads.g.doubleclick.net",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759779085,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      1,
+      66
+    ],
+    "initial_category_ids": [
+      1,
+      66
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 712,
+    "metal_id": 27,
+    "resolved_ips": [
+      "142.250.69.226"
+    ],
+    "authoritative_nameserver_ips": [
+      "216.239.32.10"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "63e51b5e36a44231bc3922daaceaa174",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "mads.amazon-adsystem.com",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759778691,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      26,
+      81
+    ],
+    "initial_category_ids": [
+      26,
+      81
+    ],
+    "cname_category_ids": [
+      26,
+      81
+    ],
+    "rdata": [
+      "mads.amazon-adsystem.com",
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 712,
+    "metal_id": 27,
+    "resolved_ips": [
+      "13.217.9.137"
+    ],
+    "authoritative_nameserver_ips": [
+      "2610:a1:1016::10",
+      "205.251.192.88"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [
+      "mads.amazon.com"
+    ],
+    "query_id": "9584c6c77f414621890ccd32ae1a3f14",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "mads.amazon-adsystem.com",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759778691,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      26,
+      81
+    ],
+    "initial_category_ids": [
+      26,
+      81
+    ],
+    "cname_category_ids": [
+      26,
+      81
+    ],
+    "rdata": [
+      "mads.amazon-adsystem.com"
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 712,
+    "metal_id": 27,
+    "resolved_ips": [],
+    "authoritative_nameserver_ips": [
+      "2610:a1:1016::10",
+      "205.251.192.88"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [],
+    "resolved_continent_codes": [],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [
+      "mads.amazon.com"
+    ],
+    "query_id": "73aa8368eb1a4e7586869b8baa9dc2ff",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "www.googletagmanager.com",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "2606:4700:4700::1111",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759693573,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      26,
+      81
+    ],
+    "initial_category_ids": [
+      26,
+      81
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 197,
+    "resolved_ips": [
+      "142.250.72.72"
+    ],
+    "authoritative_nameserver_ips": [
+      "2001:4860:4802:38::a"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "93f8c8f4577a46ba9d93a994cf1e4d1c",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "www.googletagmanager.com",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "2606:4700:4700::1111",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759693573,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      26,
+      81
+    ],
+    "initial_category_ids": [
+      26,
+      81
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 197,
+    "resolved_ips": [
+      "2607:f8b0:400f:807::2008"
+    ],
+    "authoritative_nameserver_ips": [
+      "2001:4860:4802:38::a"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "b0b1ad9b25064c33a58e26735b650058",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "googleads.g.doubleclick.net",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "2606:4700:4700::1111",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759693446,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      1,
+      66
+    ],
+    "initial_category_ids": [
+      1,
+      66
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 197,
+    "resolved_ips": [
+      "142.250.72.34"
+    ],
+    "authoritative_nameserver_ips": [
+      "2001:4860:4802:32::a"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "ba323113bc424b21a3e133ab18dc8da9",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "googleads.g.doubleclick.net",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "2606:4700:4700::1111",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759693446,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      1,
+      66
+    ],
+    "initial_category_ids": [
+      1,
+      66
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 197,
+    "resolved_ips": [
+      "2607:f8b0:400f:803::2002"
+    ],
+    "authoritative_nameserver_ips": [
+      "2001:4860:4802:38::a"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "78302931a560494a83c76379874d95f5",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "www.google-analytics.com",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.46.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759691857,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      3,
+      26,
+      75,
+      155
+    ],
+    "initial_category_ids": [
+      3,
+      26,
+      75,
+      155
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 197,
+    "resolved_ips": [
+      "2607:f8b0:400f:804::200e"
+    ],
+    "authoritative_nameserver_ips": [
+      "216.239.38.10"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "abc8656b8e0942a9b89581e872b02b82",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "www.google-analytics.com",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.46.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759691857,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      3,
+      26,
+      75,
+      155
+    ],
+    "initial_category_ids": [
+      3,
+      26,
+      75,
+      155
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 197,
+    "resolved_ips": [
+      "142.250.69.238"
+    ],
+    "authoritative_nameserver_ips": [
+      "2001:4860:4802:38::a"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "799432fa619d4eef93759a7168937db6",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "api2.branch.io",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759607234,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      3,
+      26,
+      75,
+      155
+    ],
+    "initial_category_ids": [
+      3,
+      26,
+      75,
+      155
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 712,
+    "metal_id": 15,
+    "resolved_ips": [
+      "2600:9000:250c:6800:11:f728:3040:93a1",
+      "2600:9000:250c:b600:11:f728:3040:93a1",
+      "2600:9000:250c:a400:11:f728:3040:93a1",
+      "2600:9000:250c:ce00:11:f728:3040:93a1",
+      "2600:9000:250c:5800:11:f728:3040:93a1",
+      "2600:9000:250c:b800:11:f728:3040:93a1",
+      "2600:9000:250c:da00:11:f728:3040:93a1",
+      "2600:9000:250c:4a00:11:f728:3040:93a1"
+    ],
+    "authoritative_nameserver_ips": [
+      "2600:9000:5300:ec00::1"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US",
+      "US",
+      "US",
+      "US",
+      "US",
+      "US",
+      "US",
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA",
+      "NA",
+      "NA",
+      "NA",
+      "NA",
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "45bc3ede0b7747dcb80b63ce60a75968",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "api2.branch.io",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759607234,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      3,
+      26,
+      75,
+      155
+    ],
+    "initial_category_ids": [
+      3,
+      26,
+      75,
+      155
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 712,
+    "metal_id": 15,
+    "resolved_ips": [
+      "18.154.101.104",
+      "18.154.101.116",
+      "18.154.101.61",
+      "18.154.101.14"
+    ],
+    "authoritative_nameserver_ips": [
+      "205.251.192.236"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US",
+      "US",
+      "US",
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA",
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "61869010906f4df0bbaf6815347e30e1",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "api.segment.io",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759607143,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      3,
+      75
+    ],
+    "initial_category_ids": [
+      3,
+      75
+    ],
+    "rdata": [],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 712,
+    "metal_id": 15,
+    "resolved_ips": [],
+    "authoritative_nameserver_ips": [
+      "205.251.193.148"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [],
+    "resolved_continent_codes": [],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "9141152032c94e7b893fe56e290c102c",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "api.segment.io",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759607142,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      3,
+      75
+    ],
+    "initial_category_ids": [
+      3,
+      75
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 712,
+    "metal_id": 15,
+    "resolved_ips": [
+      "44.232.164.14",
+      "35.166.10.37",
+      "35.163.39.42"
+    ],
+    "authoritative_nameserver_ips": [
+      "205.251.193.148"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US",
+      "US",
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "5a73bbccb595428086c2a2f1569e86ac",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "api.segment.io",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759606790,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      3,
+      75
+    ],
+    "initial_category_ids": [
+      3,
+      75
+    ],
+    "rdata": [],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 712,
+    "metal_id": 15,
+    "resolved_ips": [],
+    "authoritative_nameserver_ips": [
+      "205.251.193.148"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [],
+    "resolved_continent_codes": [],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "af960b570e994f1ca9cf50dbba4c8e19",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "api.segment.io",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759606790,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      3,
+      75
+    ],
+    "initial_category_ids": [
+      3,
+      75
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 712,
+    "metal_id": 15,
+    "resolved_ips": [
+      "44.231.35.67",
+      "44.246.57.203",
+      "100.21.127.115"
+    ],
+    "authoritative_nameserver_ips": [
+      "2600:9000:5301:9400::1"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US",
+      "US",
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "8fadbdec50ec4bf69fa5075582263b8c",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "cdn.branch.io",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759606140,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      3,
+      26,
+      75,
+      155
+    ],
+    "initial_category_ids": [
+      3,
+      26,
+      75,
+      155
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 712,
+    "metal_id": 15,
+    "resolved_ips": [
+      "18.154.101.105",
+      "18.154.101.100",
+      "18.154.101.85",
+      "18.154.101.81"
+    ],
+    "authoritative_nameserver_ips": [
+      "2600:9000:5300:ec00::1"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US",
+      "US",
+      "US",
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA",
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "2bdb15a708be4ba8b5d87e9452105e49",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "googleads.g.doubleclick.net",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759606122,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      1,
+      66
+    ],
+    "initial_category_ids": [
+      1,
+      66
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 712,
+    "metal_id": 15,
+    "resolved_ips": [
+      "142.250.69.226"
+    ],
+    "authoritative_nameserver_ips": [
+      "2001:4860:4802:38::a"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "bef0e78191774c20af567479e4ceee02",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "googleads.g.doubleclick.net",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759606122,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      1,
+      66
+    ],
+    "initial_category_ids": [
+      1,
+      66
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 712,
+    "metal_id": 15,
+    "resolved_ips": [
+      "2607:f8b0:400f:804::2002"
+    ],
+    "authoritative_nameserver_ips": [
+      "216.239.32.10"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "d0beb8d5631b4f498f40f2817819b630",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "static.doubleclick.net",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759606001,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      1,
+      66
+    ],
+    "initial_category_ids": [
+      1,
+      66
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 712,
+    "metal_id": 15,
+    "resolved_ips": [
+      "142.250.72.6"
+    ],
+    "authoritative_nameserver_ips": [
+      "216.239.38.10"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "a9f5661662264912a1d944c3893b7fb8",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "googleads.g.doubleclick.net",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759606001,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      1,
+      66
+    ],
+    "initial_category_ids": [
+      1,
+      66
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 712,
+    "metal_id": 15,
+    "resolved_ips": [
+      "142.250.72.66"
+    ],
+    "authoritative_nameserver_ips": [
+      "216.239.38.10"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "a38d46398f8b4fc4a878e0e8938c340d",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "static.doubleclick.net",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759606001,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      1,
+      66
+    ],
+    "initial_category_ids": [
+      1,
+      66
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 712,
+    "metal_id": 15,
+    "resolved_ips": [
+      "2607:f8b0:400f:803::2006"
+    ],
+    "authoritative_nameserver_ips": [
+      "216.239.32.10"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "f22cf750107842aeb8b2f8070583f459",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "googleads.g.doubleclick.net",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759606001,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      1,
+      66
+    ],
+    "initial_category_ids": [
+      1,
+      66
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 712,
+    "metal_id": 15,
+    "resolved_ips": [
+      "2607:f8b0:400f:804::2002"
+    ],
+    "authoritative_nameserver_ips": [
+      "216.239.32.10"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "dd35fa1f214b4bb78d26837014269d5f",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "cdn.branch.io",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759605943,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      3,
+      26,
+      75,
+      155
+    ],
+    "initial_category_ids": [
+      3,
+      26,
+      75,
+      155
+    ],
+    "rdata": [],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 712,
+    "metal_id": 15,
+    "resolved_ips": [],
+    "authoritative_nameserver_ips": [
+      "205.251.192.236"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [],
+    "resolved_continent_codes": [],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "b6cd5f3cb8c04fadbd103b11a8116ae1",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "cdn.branch.io",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759605943,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      3,
+      26,
+      75,
+      155
+    ],
+    "initial_category_ids": [
+      3,
+      26,
+      75,
+      155
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 712,
+    "metal_id": 15,
+    "resolved_ips": [
+      "18.154.101.85",
+      "18.154.101.81",
+      "18.154.101.105",
+      "18.154.101.100"
+    ],
+    "authoritative_nameserver_ips": [
+      "2600:9000:5300:ec00::1"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US",
+      "US",
+      "US",
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA",
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "17e6ecf88b5a470288678aeca5fb1587",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "www.google-analytics.com",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759605464,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      3,
+      26,
+      75,
+      155
+    ],
+    "initial_category_ids": [
+      3,
+      26,
+      75,
+      155
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 712,
+    "metal_id": 15,
+    "resolved_ips": [
+      "2607:f8b0:400f:802::200e"
+    ],
+    "authoritative_nameserver_ips": [
+      "2001:4860:4802:38::a"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "55ad31b466364b07b85cbf1b47cb9469",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "www.google-analytics.com",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759605464,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      3,
+      26,
+      75,
+      155
+    ],
+    "initial_category_ids": [
+      3,
+      26,
+      75,
+      155
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 712,
+    "metal_id": 15,
+    "resolved_ips": [
+      "142.250.69.238"
+    ],
+    "authoritative_nameserver_ips": [
+      "216.239.34.10"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "c4b0dd1087ef4e3cbbf7468104608d40",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "graph.facebook.com",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759521079,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      24,
+      149
+    ],
+    "initial_category_ids": [
+      24,
+      149
+    ],
+    "cname_category_ids": [
+      24,
+      149
+    ],
+    "rdata": [
+      "graph.facebook.com",
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": 541,
+    "rcode": 541,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 166,
+    "resolved_ips": [
+      "2a03:2880:f357:8d:face:b00c:0:2"
+    ],
+    "authoritative_nameserver_ips": [
+      "185.89.219.12",
+      "185.89.219.12"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [
+      "star.c10r.facebook.com"
+    ],
+    "query_id": "eea2cb7a3c8a496f89caf289de2c9f3b",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": "",
+    "query_application_ids": [
+      541
+    ]
+  },
+  {
+    "query": "graph.facebook.com",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759521079,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      24,
+      149
+    ],
+    "initial_category_ids": [
+      24,
+      149
+    ],
+    "cname_category_ids": [
+      24,
+      149
+    ],
+    "rdata": [
+      "graph.facebook.com",
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": 541,
+    "rcode": 541,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 166,
+    "resolved_ips": [
+      "57.144.174.141"
+    ],
+    "authoritative_nameserver_ips": [
+      "185.89.219.12",
+      "185.89.219.12"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [
+      "star.c10r.facebook.com"
+    ],
+    "query_id": "7f2c1b046987400eb70291becbecfd57",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": "",
+    "query_application_ids": [
+      541
+    ]
+  },
+  {
+    "query": "graph.facebook.com",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759520164,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      24,
+      149
+    ],
+    "initial_category_ids": [
+      24,
+      149
+    ],
+    "cname_category_ids": [
+      24,
+      149
+    ],
+    "rdata": [
+      "graph.facebook.com",
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": 541,
+    "rcode": 541,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 166,
+    "resolved_ips": [
+      "2a03:2880:f357:8d:face:b00c:0:2"
+    ],
+    "authoritative_nameserver_ips": [
+      "2a03:2880:f1fd:c:face:b00c:0:35",
+      "185.89.219.12"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [
+      "star.c10r.facebook.com"
+    ],
+    "query_id": "e637403449a3407aa0ad1b4b44f571ab",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": "",
+    "query_application_ids": [
+      541
+    ]
+  },
+  {
+    "query": "graph.facebook.com",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759520164,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      24,
+      149
+    ],
+    "initial_category_ids": [
+      24,
+      149
+    ],
+    "cname_category_ids": [
+      24,
+      149
+    ],
+    "rdata": [
+      "graph.facebook.com",
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": 541,
+    "rcode": 541,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 166,
+    "resolved_ips": [
+      "2a03:2880:f357:8d:face:b00c:0:2"
+    ],
+    "authoritative_nameserver_ips": [
+      "2a03:2880:f1fd:c:face:b00c:0:35",
+      "185.89.219.12"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [
+      "star.c10r.facebook.com"
+    ],
+    "query_id": "5cc015fb540e408dbfed6cebddad68e4",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": "",
+    "query_application_ids": [
+      541
+    ]
+  },
+  {
+    "query": "graph.facebook.com",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759520164,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      24,
+      149
+    ],
+    "initial_category_ids": [
+      24,
+      149
+    ],
+    "cname_category_ids": [
+      24,
+      149
+    ],
+    "rdata": [
+      "graph.facebook.com",
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": 541,
+    "rcode": 541,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 166,
+    "resolved_ips": [
+      "57.144.174.141"
+    ],
+    "authoritative_nameserver_ips": [
+      "185.89.219.12",
+      "185.89.219.12"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [
+      "star.c10r.facebook.com"
+    ],
+    "query_id": "f0d22c7b14a74487a8ee61ce2fb8d7a0",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": "",
+    "query_application_ids": [
+      541
+    ]
+  },
+  {
+    "query": "graph.facebook.com",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759520164,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      24,
+      149
+    ],
+    "initial_category_ids": [
+      24,
+      149
+    ],
+    "cname_category_ids": [
+      24,
+      149
+    ],
+    "rdata": [
+      "graph.facebook.com",
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": 541,
+    "rcode": 541,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 166,
+    "resolved_ips": [
+      "57.144.174.141"
+    ],
+    "authoritative_nameserver_ips": [
+      "185.89.219.12",
+      "185.89.219.12"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [
+      "star.c10r.facebook.com"
+    ],
+    "query_id": "76bcdf3bcd23446ab043e624685ec196",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": "",
+    "query_application_ids": [
+      541
+    ]
+  },
+  {
+    "query": "static.doubleclick.net",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759434624,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      1,
+      66
+    ],
+    "initial_category_ids": [
+      1,
+      66
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 166,
+    "resolved_ips": [
+      "142.250.69.230"
+    ],
+    "authoritative_nameserver_ips": [
+      "2001:4860:4802:32::a"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "a224e01b35d24a5099063ebd283fbcdf",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "static.doubleclick.net",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759434624,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      1,
+      66
+    ],
+    "initial_category_ids": [
+      1,
+      66
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 166,
+    "resolved_ips": [
+      "2607:f8b0:400f:803::2006"
+    ],
+    "authoritative_nameserver_ips": [
+      "216.239.38.10"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "971cc2ffad86495390330760b17afeb8",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "googleads.g.doubleclick.net",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759434624,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      1,
+      66
+    ],
+    "initial_category_ids": [
+      1,
+      66
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 166,
+    "resolved_ips": [
+      "2607:f8b0:400f:803::2002"
+    ],
+    "authoritative_nameserver_ips": [
+      "216.239.38.10"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "84d503ee0224433893e379d48c0cf46f",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "googleads.g.doubleclick.net",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759434624,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      1,
+      66
+    ],
+    "initial_category_ids": [
+      1,
+      66
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 166,
+    "resolved_ips": [
+      "142.250.72.34"
+    ],
+    "authoritative_nameserver_ips": [
+      "2001:4860:4802:34::a"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "ad8829b7a0de4f8a946df32ef8fd17ca",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "www.googletagmanager.com",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759434621,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      26,
+      81
+    ],
+    "initial_category_ids": [
+      26,
+      81
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 166,
+    "resolved_ips": [
+      "142.250.69.232"
+    ],
+    "authoritative_nameserver_ips": [
+      "216.239.34.10"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "f8b2c69405454520a87ffccc13ec472e",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "www.googletagmanager.com",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759434620,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      26,
+      81
+    ],
+    "initial_category_ids": [
+      26,
+      81
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 166,
+    "resolved_ips": [
+      "2607:f8b0:400f:807::2008"
+    ],
+    "authoritative_nameserver_ips": [
+      "2001:4860:4802:38::a"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "7bc710cdb3b44a888641a9a830b03635",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "cdn.branch.io",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759434524,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      3,
+      26,
+      75,
+      155
+    ],
+    "initial_category_ids": [
+      3,
+      26,
+      75,
+      155
+    ],
+    "rdata": [],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 166,
+    "resolved_ips": [],
+    "authoritative_nameserver_ips": [
+      "205.251.192.236"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [],
+    "resolved_continent_codes": [],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "40f3d4540668462eb24cda050425fcc2",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "cdn.branch.io",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759434524,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      3,
+      26,
+      75,
+      155
+    ],
+    "initial_category_ids": [
+      3,
+      26,
+      75,
+      155
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 166,
+    "resolved_ips": [
+      "18.154.101.100",
+      "18.154.101.85",
+      "18.154.101.81",
+      "18.154.101.105"
+    ],
+    "authoritative_nameserver_ips": [
+      "205.251.199.17"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US",
+      "US",
+      "US",
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA",
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "bda20d3bf1aa4dd792695c751defc003",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "graph.facebook.com",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759434407,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      24,
+      149
+    ],
+    "initial_category_ids": [
+      24,
+      149
+    ],
+    "cname_category_ids": [
+      24,
+      149
+    ],
+    "rdata": [
+      "graph.facebook.com",
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": 541,
+    "rcode": 541,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 166,
+    "resolved_ips": [
+      "2a03:2880:f32b:90:face:b00c:0:2"
+    ],
+    "authoritative_nameserver_ips": [
+      "2a03:2880:f1fd:c:face:b00c:0:35",
+      "2a03:2880:f1fd:c:face:b00c:0:35"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [
+      "star.c10r.facebook.com"
+    ],
+    "query_id": "645f50d238e347e7b0a6db7d2ed815f1",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": "",
+    "query_application_ids": [
+      541
+    ]
+  },
+  {
+    "query": "graph.facebook.com",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759434406,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      24,
+      149
+    ],
+    "initial_category_ids": [
+      24,
+      149
+    ],
+    "cname_category_ids": [
+      24,
+      149
+    ],
+    "rdata": [
+      "graph.facebook.com",
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": 541,
+    "rcode": 541,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 166,
+    "resolved_ips": [
+      "57.144.104.141"
+    ],
+    "authoritative_nameserver_ips": [
+      "185.89.219.12",
+      "2a03:2880:f1fd:c:face:b00c:0:35"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [
+      "star.c10r.facebook.com"
+    ],
+    "query_id": "ef59473a48c5494fbc909703b690e4ce",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": "",
+    "query_application_ids": [
+      541
+    ]
+  },
+  {
+    "query": "googleads.g.doubleclick.net",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759433837,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      1,
+      66
+    ],
+    "initial_category_ids": [
+      1,
+      66
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 166,
+    "resolved_ips": [
+      "142.250.69.226"
+    ],
+    "authoritative_nameserver_ips": [
+      "2001:4860:4802:38::a"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "1e05d8ed444743ee9c41c741e76f6633",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "googleads.g.doubleclick.net",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759433837,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      1,
+      66
+    ],
+    "initial_category_ids": [
+      1,
+      66
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 166,
+    "resolved_ips": [
+      "2607:f8b0:400f:803::2002"
+    ],
+    "authoritative_nameserver_ips": [
+      "216.239.38.10"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "b9607999ee114a24a43dacac761cb84a",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "graph.facebook.com",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759433703,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      24,
+      149
+    ],
+    "initial_category_ids": [
+      24,
+      149
+    ],
+    "cname_category_ids": [
+      24,
+      149
+    ],
+    "rdata": [
+      "graph.facebook.com",
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": 541,
+    "rcode": 541,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 166,
+    "resolved_ips": [
+      "2a03:2880:f36d:8d:face:b00c:0:2"
+    ],
+    "authoritative_nameserver_ips": [
+      "185.89.219.12",
+      "2a03:2880:f1fd:c:face:b00c:0:35"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [
+      "star.c10r.facebook.com"
+    ],
+    "query_id": "5c047d051e374de8a3624201f3a047d3",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": "",
+    "query_application_ids": [
+      541
+    ]
+  },
+  {
+    "query": "graph.facebook.com",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759433703,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      24,
+      149
+    ],
+    "initial_category_ids": [
+      24,
+      149
+    ],
+    "cname_category_ids": [
+      24,
+      149
+    ],
+    "rdata": [
+      "graph.facebook.com",
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": 541,
+    "rcode": 541,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 166,
+    "resolved_ips": [
+      "57.144.218.141"
+    ],
+    "authoritative_nameserver_ips": [
+      "185.89.219.12",
+      "2a03:2880:f1fd:c:face:b00c:0:35"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [
+      "star.c10r.facebook.com"
+    ],
+    "query_id": "899176adb36a4ccabe5642f1564033a8",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": "",
+    "query_application_ids": [
+      541
+    ]
+  },
+  {
+    "query": "graph.facebook.com",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759433703,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      24,
+      149
+    ],
+    "initial_category_ids": [
+      24,
+      149
+    ],
+    "cname_category_ids": [
+      24,
+      149
+    ],
+    "rdata": [
+      "graph.facebook.com",
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": 541,
+    "rcode": 541,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 166,
+    "resolved_ips": [
+      "57.144.218.141"
+    ],
+    "authoritative_nameserver_ips": [
+      "185.89.219.12",
+      "2a03:2880:f1fd:c:face:b00c:0:35"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [
+      "star.c10r.facebook.com"
+    ],
+    "query_id": "a5a210f27428474482779c49d13e8b33",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": "",
+    "query_application_ids": [
+      541
+    ]
+  },
+  {
+    "query": "graph.facebook.com",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759433703,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      24,
+      149
+    ],
+    "initial_category_ids": [
+      24,
+      149
+    ],
+    "cname_category_ids": [
+      24,
+      149
+    ],
+    "rdata": [
+      "graph.facebook.com",
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": 541,
+    "rcode": 541,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 166,
+    "resolved_ips": [
+      "2a03:2880:f36d:8d:face:b00c:0:2"
+    ],
+    "authoritative_nameserver_ips": [
+      "185.89.219.12",
+      "2a03:2880:f1fd:c:face:b00c:0:35"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [
+      "star.c10r.facebook.com"
+    ],
+    "query_id": "6c32bba644934a0cb111d04a2c22d73e",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": "",
+    "query_application_ids": [
+      541
+    ]
+  },
+  {
+    "query": "cdn.branch.io",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759433680,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      3,
+      26,
+      75,
+      155
+    ],
+    "initial_category_ids": [
+      3,
+      26,
+      75,
+      155
+    ],
+    "rdata": [],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 166,
+    "resolved_ips": [],
+    "authoritative_nameserver_ips": [
+      "2600:9000:5300:ec00::1"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [],
+    "resolved_continent_codes": [],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "f0438ff80f1c40c18663172e92611dee",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "cdn.branch.io",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759433680,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      3,
+      26,
+      75,
+      155
+    ],
+    "initial_category_ids": [
+      3,
+      26,
+      75,
+      155
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 166,
+    "resolved_ips": [
+      "18.154.101.81",
+      "18.154.101.105",
+      "18.154.101.85",
+      "18.154.101.100"
+    ],
+    "authoritative_nameserver_ips": [
+      "205.251.195.223"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US",
+      "US",
+      "US",
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA",
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "36f6467e32a14944969ce242a0b7a88e",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "googleads.g.doubleclick.net",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759433371,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      1,
+      66
+    ],
+    "initial_category_ids": [
+      1,
+      66
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 166,
+    "resolved_ips": [
+      "2607:f8b0:400f:803::2002"
+    ],
+    "authoritative_nameserver_ips": [
+      "216.239.38.10"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "f542263f34674647b327d269bd1c7554",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "googleads.g.doubleclick.net",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759433371,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      1,
+      66
+    ],
+    "initial_category_ids": [
+      1,
+      66
+    ],
+    "rdata": [
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": null,
+    "rcode": 0,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 166,
+    "resolved_ips": [
+      "142.250.72.66"
+    ],
+    "authoritative_nameserver_ips": [
+      "216.239.38.10"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [],
+    "query_id": "76c3930252204109bac74a6baec96b9b",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": ""
+  },
+  {
+    "query": "graph.facebook.com",
+    "query_type": "A",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759432659,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      24,
+      149
+    ],
+    "initial_category_ids": [
+      24,
+      149
+    ],
+    "cname_category_ids": [
+      24,
+      149
+    ],
+    "rdata": [
+      "graph.facebook.com",
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": 541,
+    "rcode": 541,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 166,
+    "resolved_ips": [
+      "57.144.194.141"
+    ],
+    "authoritative_nameserver_ips": [
+      "185.89.219.12",
+      "185.89.219.12"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [
+      "star.c10r.facebook.com"
+    ],
+    "query_id": "8210a11738d94f7b8c65b69bf5d7d77e",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": "",
+    "query_application_ids": [
+      541
+    ]
+  },
+  {
+    "query": "graph.facebook.com",
+    "query_type": "AAAA",
+    "policy_uuid": "b78c380fad9f4dc5b917b775c1e98438",
+    "location_uuid": "d80ea6bd99e74153a289d2dc20cca449",
+    "source_ip": "",
+    "destination_ip": "162.159.36.1",
+    "destination_port": 0,
+    "protocol": "https",
+    "datetime": 1759432659,
+    "decision": "blockedRule",
+    "blocked": true,
+    "overridden": false,
+    "query_category_ids": [
+      24,
+      149
+    ],
+    "initial_category_ids": [
+      24,
+      149
+    ],
+    "cname_category_ids": [
+      24,
+      149
+    ],
+    "rdata": [
+      "graph.facebook.com",
+      ""
+    ],
+    "email": "",
+    "user_id": "",
+    "device_id": "",
+    "dnssec_validation_disabled": false,
+    "ede_errors": [],
+    "src_country": "US",
+    "tenant_configuration_account_id": "",
+    "host_application_id": 541,
+    "rcode": 541,
+    "time_zone_inferred_method": "No Schedule Configured",
+    "custom_resolver_address": "",
+    "custom_resolver_response": "unknown",
+    "custom_resolver_time_in_ms": 0,
+    "custom_resolver_rule_uuid": "",
+    "is_response_cached": false,
+    "colo_id": 98,
+    "metal_id": 166,
+    "resolved_ips": [
+      "2a03:2880:f361:8d:face:b00c:0:2"
+    ],
+    "authoritative_nameserver_ips": [
+      "2a03:2880:f1fd:c:face:b00c:0:35",
+      "185.89.219.12"
+    ],
+    "doh_subdomain": "5870184517da3396bf167461e6b2a421",
+    "dot_subdomain": null,
+    "resolved_country_codes": [
+      "US"
+    ],
+    "resolved_continent_codes": [
+      "NA"
+    ],
+    "src_country_code": "US",
+    "src_continent_code": "NA",
+    "cnames": [
+      "star.c10r.facebook.com"
+    ],
+    "query_id": "7bfd311e9d7548898b3764af02bb6998",
+    "internal_dns_rcode": 0,
+    "internal_dns_time_in_ms": 0,
+    "redirect_target_uri": "",
+    "registration_id": "",
+    "query_application_ids": [
+      541
+    ]
+  }
+]
