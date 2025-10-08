@@ -1,52 +1,20 @@
 {
   "topBlocked": [
     {
-      "name": "mobile.events.data.microsoft.com",
-      "count": 55
+      "name": "www.google-analytics.com",
+      "count": 2
     },
     {
-      "name": "glb-db52c2cf8be544.github.com",
-      "count": 35
-    },
-    {
-      "name": "api.individual.githubcopilot.com",
-      "count": 32
-    },
-    {
-      "name": "discord.com",
-      "count": 30
-    },
-    {
-      "name": "gateway.fe2.apple-dns.net",
-      "count": 25
-    },
-    {
-      "name": "mask.apple-dns.net",
-      "count": 23
-    },
-    {
-      "name": "api.github.com",
-      "count": 23
-    },
-    {
-      "name": "metricsedge-continent-wrr.v.aaplimg.com",
-      "count": 21
-    },
-    {
-      "name": "spclient.wg.spotify.com",
-      "count": 18
-    },
-    {
-      "name": "fmfmobile.fe2.apple-dns.net",
-      "count": 17
+      "name": "googleads.g.doubleclick.net",
+      "count": 2
     }
   ],
   "totals": {
-    "blocked": 1000,
-    "allowed": 0
+    "blocked": 4,
+    "allowed": 996
   },
   "meta": {
-    "fetchedAt": 1759920781003,
+    "fetchedAt": 1759920948406,
     "fetchedCount": 1000
   }
 }
