@@ -22,6 +22,45 @@ const rangeLabels = {
   latest: 'Latest 1000 records',
 };
 
+// viewMode: 'blocked' | 'allowed'
+let viewMode = 'blocked';
+const viewSelect = document.getElementById('view-select');
+const countHeader = document.getElementById('count-header');
+
+if (viewSelect) {
+  viewSelect.addEventListener('change', () => {
+    viewMode = viewSelect.value || 'blocked';
+    if (countHeader) countHeader.textContent = viewMode === 'blocked' ? 'Blocked Count' : 'Request Count';
+    loadSummary(rangeSelect?.value || currentRange);
+  });
+}
+
+// Advanced debugging panel (show/hide)
+const advancedToggle = document.getElementById('advanced-toggle');
+const advancedPanel = document.getElementById('advanced-panel');
+const rangeSelectDebug = document.getElementById('range-select-debug');
+const refreshButtonDebug = document.getElementById('refresh-button-debug');
+
+if (advancedToggle && advancedPanel) {
+  advancedToggle.addEventListener('click', () => {
+    const isVisible = advancedPanel.style.display !== 'none';
+    advancedPanel.style.display = isVisible ? 'none' : 'block';
+    advancedToggle.textContent = isVisible ? 'Show advanced debugging' : 'Hide advanced debugging';
+  });
+}
+
+if (rangeSelectDebug) {
+  rangeSelectDebug.addEventListener('change', () => {
+    // change the hidden rangeSelect value used by the loader
+    if (rangeSelect) rangeSelect.value = rangeSelectDebug.value;
+    loadSummary(rangeSelectDebug.value, { triggeredByUser: true });
+  });
+}
+
+if (refreshButtonDebug) {
+  refreshButtonDebug.addEventListener('click', () => loadSummary(rangeSelect?.value || currentRange, { forceRefresh: true, triggeredByUser: true }));
+}
+
 function setStatus(message, variant) {
   statusMessage.textContent = message;
   statusMessage.classList.remove('status--success', 'status--error', 'status--loading');
@@ -188,11 +227,14 @@ async function loadSummary(requestedRange, options = {}) {
       }
     }
 
-    // Prefer a normalized/aggregated topBlocked (added by CI script). Fall back to legacy topBlocked.
-    let tableRows = payload.topBlockedNormalized ?? payload.topBlocked ?? [];
+    // Choose rows based on view mode
+    let tableRows = [];
+    if (viewMode === 'blocked') {
+      // Prefer a normalized/aggregated topBlocked (added by CI script). Fall back to legacy topBlocked.
+      tableRows = payload.topBlockedNormalized ?? payload.topBlocked ?? [];
 
-  // If the aggregated list is tiny (1 or 0 entries), try blockedSamples; if still tiny, fall back to topQueries
-  if ((!Array.isArray(tableRows) || tableRows.length <= 1) && Array.isArray(payload.blockedSamples) && payload.blockedSamples.length) {
+      // If the aggregated list is tiny (1 or 0 entries), try blockedSamples; if still tiny, fall back to topQueries
+      if ((!Array.isArray(tableRows) || tableRows.length <= 1) && Array.isArray(payload.blockedSamples) && payload.blockedSamples.length) {
       const counts = {};
       payload.blockedSamples.forEach((s) => {
         const d = s.domain || 'unknown';
@@ -211,13 +253,18 @@ async function loadSummary(requestedRange, options = {}) {
       tableRows = merged.slice(0, 10);
     }
 
-    // If we still have very few rows, fall back to topQueries (most frequent overall destinaton)
-    if ((!Array.isArray(tableRows) || tableRows.length <= 1) && Array.isArray(payload.topQueries) && payload.topQueries.length) {
-      tableRows = payload.topQueries.slice(0, 10);
+      // If we still have very few rows, fall back to topQueries (most frequent overall destinaton)
+      if ((!Array.isArray(tableRows) || tableRows.length <= 1) && Array.isArray(payload.topQueries) && payload.topQueries.length) {
+        tableRows = payload.topQueries.slice(0, 10);
+      }
+    } else {
+      // allowed view: show topQueries (non-deduped counts)
+      tableRows = Array.isArray(payload.topQueries) ? payload.topQueries.slice(0, 10) : [];
     }
 
     renderTable(tableRows);
     try {
+      // In blocked view, show blocked/allowed chart; in allowed view, show overall trend if available
       renderChart(payload.totals ?? {});
     } catch (chartError) {
       console.warn('Unable to render chart:', chartError);

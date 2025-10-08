@@ -179,3 +179,50 @@ tbody tr:last-child td {
   min-width: 0;
   overflow-x: auto;
 }
+
+.advanced-toggle {
+  background: transparent;
+  border: 1px solid #b6c2de;
+  padding: 0.4rem 0.75rem;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.advanced-panel {
+  background: #fff;
+  border-radius: 8px;
+  padding: 0.75rem 1rem;
+  box-shadow: 0 1px 8px rgba(31,42,68,0.06);
+}
+
+.advanced-controls {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+/* Ensure selects and the advanced toggle have good contrast in all color schemes */
+.view-select,
+.range-select,
+.range-select-debug,
+.range-select-debug option,
+.range-select option,
+.view-select option {
+  color: #0f1724; /* dark text */
+  background: #ffffff; /* white background */
+  border: 1px solid #b6c2de;
+  padding: 0.35rem 0.5rem;
+  border-radius: 6px;
+}
+
+.advanced-toggle {
+  color: #0f1724; /* dark text for visibility */
+  background: #ffffff;
+  border: 1px solid #b6c2de;
+}
+
+/* Make sure debug refresh matches primary refresh button style */
+.advanced-controls .refresh-button {
+  background: #2f6fed;
+  color: #ffffff;
+}

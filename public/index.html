@@ -28,12 +28,18 @@
         <div class="table-header">
           <h2>Top Blocked Destinations</h2>
           <div class="table-actions">
+            <!-- Range selector intentionally hidden in Pages deploys; keep default range on server-side -->
             <label for="range-select" class="sr-only">Time range</label>
-            <select id="range-select" class="range-select">
+            <select id="range-select" class="range-select" style="display:none;">
               <option value="7d" selected>Last 7 days</option>
               <option value="30d">Last 30 days</option>
               <option value="365d">Last 365 days</option>
               <option value="lifetime">All available data</option>
+            </select>
+            <label for="view-select" class="sr-only">View mode</label>
+            <select id="view-select" class="view-select">
+              <option value="blocked" selected>Blocked</option>
+              <option value="allowed">Allowed</option>
             </select>
             <button id="refresh-button" type="button" class="refresh-button">Refresh</button>
           </div>
@@ -41,16 +47,29 @@
         <table id="blocked-table">
           <thead>
             <tr>
-              <th scope="col">Destination / Query</th>
-              <th scope="col">When</th>
-              <th scope="col">Decision</th>
-              <th scope="col">Action</th>
-              <th scope="col">Blocked Count</th>
+              <th scope="col">Destination</th>
+              <th scope="col" id="count-header">Blocked Count</th>
             </tr>
           </thead>
           <tbody></tbody>
         </table>
       </section>
+    </div>
+    <div class="advanced-debug" id="advanced-debug">
+      <button id="advanced-toggle" class="advanced-toggle" type="button">Show advanced debugging</button>
+      <div id="advanced-panel" class="advanced-panel" style="display:none; margin-top:1rem;">
+        <div class="advanced-controls">
+          <label for="range-select" class="sr-only">Time range</label>
+          <!-- range-select exists already but hidden; show here for debugging -->
+          <select id="range-select-debug" class="range-select-debug">
+            <option value="7d">Last 7 days</option>
+            <option value="30d">Last 30 days</option>
+            <option value="365d">Last 365 days</option>
+            <option value="lifetime">All available data</option>
+          </select>
+          <button id="refresh-button-debug" type="button" class="refresh-button">Refresh</button>
+        </div>
+      </div>
     </div>
   </main>
 </body>
