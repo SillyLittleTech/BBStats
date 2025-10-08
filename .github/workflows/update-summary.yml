@@ -22,8 +22,14 @@ jobs:
 
       - name: Run summary fetch script
         env:
-          CLOUDFLARE_ACCOUNT_ID: ${{ vars.CLOUDFLARE_ACCOUNT_ID != '' && vars.CLOUDFLARE_ACCOUNT_ID || secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          RANGE: '7d'
+          # Fetch a focused window matching what we test locally (7 days). This makes CI output
+          # more consistent with local runs that capture blocked events.
+          MAX_FETCH_DAYS: '7'
+          # Try to collect blocked events (stop once this many blocked logs are gathered). Tune as needed.
+          FETCH_TARGET_BLOCKED: '50'
         run: node scripts/fetch-summary.js
 
       - name: Commit and push changes
