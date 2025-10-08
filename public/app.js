@@ -157,17 +157,35 @@ async function loadSummary(requestedRange, options = {}) {
   prepareLoadingState(rangeToUse, { forced: forceRefresh });
 
   try {
-    const params = new URLSearchParams({ range: rangeToUse });
-    if (forceRefresh) {
-      params.set('force', '1');
+    // Prefer a pre-generated static summary file (keeps function invocations to zero when available)
+    let payload = null;
+    if (!forceRefresh) {
+      try {
+        const staticResp = await fetch('./activity-summary.json', { cache: 'no-store' });
+        if (staticResp.ok) {
+          payload = await staticResp.json();
+          // Mark as from static file
+          payload.meta = payload.meta || {};
+          payload.meta.fromCache = true;
+        }
+      } catch (e) {
+        // ignore static load errors and fall back to API
+      }
     }
-    const response = await fetch(`/api/activity-summary?${params.toString()}`, {
-      signal: controller.signal,
-    });
-    const payload = await response.json();
 
-    if (!response.ok || payload?.error) {
-      throw new Error(payload?.error || `Request failed with status ${response.status}`);
+    if (!payload) {
+      const params = new URLSearchParams({ range: rangeToUse });
+      if (forceRefresh) {
+        params.set('force', '1');
+      }
+      const response = await fetch(`/api/activity-summary?${params.toString()}`, {
+        signal: controller.signal,
+      });
+      payload = await response.json();
+
+      if (!response.ok || payload?.error) {
+        throw new Error(payload?.error || `Request failed with status ${response.status}`);
+      }
     }
 
     renderTable(payload.topBlocked ?? []);
@@ -177,7 +195,7 @@ async function loadSummary(requestedRange, options = {}) {
       console.warn('Unable to render chart:', chartError);
     }
 
-    const meta = payload?.meta || {};
+  const meta = payload?.meta || {};
     if (Object.keys(meta).length) {
       console.groupCollapsed('Cloudflare fetch details');
       console.log('Range requested:', rangeToUse, rangeLabels[rangeToUse] || '');
