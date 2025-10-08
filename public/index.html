@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>BBStats – Cloudflare Gateway Activity</title>
+  <link rel="stylesheet" href="styles.css" />
+  <script defer src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js" crossorigin="anonymous"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <main class="container">
+    <header>
+      <h1>Cloudflare Gateway Activity</h1>
+      <p class="lede">Top blocked destinations and request breakdown from the latest Cloudflare Gateway logs.</p>
+    </header>
+
+    <section class="status" id="status-message">Loading data…</section>
+
+    <div class="cards-row">
+      <section class="chart-card">
+        <h2>Traffic Overview</h2>
+        <canvas id="traffic-chart" width="320" height="320" role="img" aria-label="Requests by action"></canvas>
+        <p class="chart-caption">Shows the proportion of blocked versus allowed requests in the fetched window.</p>
+      </section>
+
+      <section class="table-card">
+        <div class="table-header">
+          <h2>Top Blocked Destinations</h2>
+          <div class="table-actions">
+            <label for="range-select" class="sr-only">Time range</label>
+            <select id="range-select" class="range-select">
+              <option value="7d" selected>Last 7 days</option>
+              <option value="30d">Last 30 days</option>
+              <option value="365d">Last 365 days</option>
+              <option value="lifetime">All available data</option>
+            </select>
+            <button id="refresh-button" type="button" class="refresh-button">Refresh</button>
+          </div>
+        </div>
+        <table id="blocked-table">
+          <thead>
+            <tr>
+              <th scope="col">Destination</th>
+              <th scope="col">Blocked Count</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </section>
+    </div>
+  </main>
+</body>
+</html>
