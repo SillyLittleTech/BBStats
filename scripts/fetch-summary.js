@@ -14,7 +14,7 @@ if (!accountId || !apiToken) {
   process.exit(1);
 }
 
-async function isBlocked(log) {
+function isBlocked(log) {
   const actionField = log?.action_name ?? log?.action ?? '';
   if (/\b(block|blocked)\b/i.test(actionField)) return true;
   if (log?.blocked === true) return true;
