@@ -1,176 +1,191 @@
 {
   "topBlocked": [
     {
-      "name": "api.branch.io",
-      "count": 3
-    },
-    {
-      "name": "developers.google.com",
-      "count": 3
-    },
-    {
-      "name": "githlab.com",
-      "count": 3
-    },
-    {
-      "name": "googleads.g.doubleclick.net",
-      "count": 2
-    },
-    {
       "name": "api.segment.io",
-      "count": 2
+      "count": 15
+    },
+    {
+      "name": "www.googletagmanager.com",
+      "count": 6
+    },
+    {
+      "name": "api3.branch.io",
+      "count": 6
+    },
+    {
+      "name": "api.btloader.com",
+      "count": 4
+    },
+    {
+      "name": "btloader.com",
+      "count": 4
+    },
+    {
+      "name": "connect.facebook.net",
+      "count": 3
     }
   ],
   "topBlockedNormalized": [
     {
-      "name": "branch.io",
-      "count": 3
-    },
-    {
-      "name": "google.com",
-      "count": 3
-    },
-    {
-      "name": "githlab.com",
-      "count": 3
-    },
-    {
-      "name": "doubleclick.net",
-      "count": 2
-    },
-    {
       "name": "segment.io",
-      "count": 2
+      "count": 15
+    },
+    {
+      "name": "btloader.com",
+      "count": 8
+    },
+    {
+      "name": "googletagmanager.com",
+      "count": 6
+    },
+    {
+      "name": "branch.io",
+      "count": 6
+    },
+    {
+      "name": "facebook.net",
+      "count": 3
     }
   ],
   "totals": {
-    "blocked": 13,
-    "allowed": 8987
+    "blocked": 38,
+    "allowed": 9962
   },
   "topQueries": [
     {
-      "name": "e6858.dsce9.akamaiedge.net",
-      "count": 288
+      "name": "cdn.discordapp.com",
+      "count": 260
     },
     {
-      "name": "www.apple.com",
-      "count": 281
+      "name": "discord.com",
+      "count": 238
     },
     {
-      "name": "1-courier.sandbox.push.apple.com",
-      "count": 276
+      "name": "spclient.wg.spotify.com",
+      "count": 170
     },
     {
-      "name": "api.apple-cloudkit.com",
-      "count": 204
+      "name": "ptb.discord.com",
+      "count": 155
     },
     {
-      "name": "local.adguard.org",
-      "count": 200
+      "name": "time.cloudflare.com",
+      "count": 146
     },
     {
-      "name": "us-sandbox-courier-4.push-apple.com.akadns.net",
-      "count": 188
+      "name": "canary.mask.apple-dns.net",
+      "count": 139
     },
     {
-      "name": "lb._dns-sd._udp.mynetworksettings.com",
-      "count": 186
+      "name": "connectivity.cloudflareclient.com",
+      "count": 138
     },
     {
-      "name": "api.apple-cloudkit.fe2.apple-dns.net",
-      "count": 168
+      "name": "p2p-ord1.discovery.steamserver.net",
+      "count": 131
     },
     {
-      "name": "ipv4only.arpa",
-      "count": 157
+      "name": "guc3-spclient.spotify.com",
+      "count": 122
     },
     {
-      "name": "1-courier.push.apple.com",
-      "count": 141
+      "name": "api.spotify.com",
+      "count": 114
     }
   ],
   "topBlockedTotals": [
     {
-      "name": "api.branch.io",
-      "blockedCount": 3,
-      "totalCount": 3
-    },
-    {
-      "name": "developers.google.com",
-      "blockedCount": 3,
-      "totalCount": 3
-    },
-    {
-      "name": "githlab.com",
-      "blockedCount": 3,
-      "totalCount": 3
-    },
-    {
-      "name": "googleads.g.doubleclick.net",
-      "blockedCount": 2,
-      "totalCount": 2
-    },
-    {
       "name": "api.segment.io",
-      "blockedCount": 2,
-      "totalCount": 2
+      "blockedCount": 15,
+      "totalCount": 15
+    },
+    {
+      "name": "www.googletagmanager.com",
+      "blockedCount": 6,
+      "totalCount": 6
+    },
+    {
+      "name": "api3.branch.io",
+      "blockedCount": 6,
+      "totalCount": 6
+    },
+    {
+      "name": "api.btloader.com",
+      "blockedCount": 4,
+      "totalCount": 4
+    },
+    {
+      "name": "btloader.com",
+      "blockedCount": 4,
+      "totalCount": 4
+    },
+    {
+      "name": "connect.facebook.net",
+      "blockedCount": 3,
+      "totalCount": 3
     }
   ],
   "topBlockedNormalizedTotals": [
     {
-      "name": "branch.io",
-      "blockedCount": 3,
-      "totalCount": 3
-    },
-    {
-      "name": "google.com",
-      "blockedCount": 3,
-      "totalCount": 485
-    },
-    {
-      "name": "githlab.com",
-      "blockedCount": 3,
-      "totalCount": 3
-    },
-    {
-      "name": "doubleclick.net",
-      "blockedCount": 2,
-      "totalCount": 2
-    },
-    {
       "name": "segment.io",
-      "blockedCount": 2,
-      "totalCount": 2
+      "blockedCount": 15,
+      "totalCount": 15
+    },
+    {
+      "name": "btloader.com",
+      "blockedCount": 8,
+      "totalCount": 8
+    },
+    {
+      "name": "googletagmanager.com",
+      "blockedCount": 6,
+      "totalCount": 6
+    },
+    {
+      "name": "branch.io",
+      "blockedCount": 6,
+      "totalCount": 6
+    },
+    {
+      "name": "facebook.net",
+      "blockedCount": 3,
+      "totalCount": 3
     }
   ],
   "blockedSamples": [
     {
-      "domain": "googleads.g.doubleclick.net",
-      "timestamp": "2025-11-15T00:43:30.000Z",
+      "domain": "www.googletagmanager.com",
+      "timestamp": "2025-11-20T00:57:35.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "api.btloader.com",
+      "timestamp": "2025-11-20T00:57:35.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "btloader.com",
+      "timestamp": "2025-11-20T00:57:35.000Z",
       "decision": "blockedRule",
       "action": null
     },
     {
       "domain": "api.segment.io",
-      "timestamp": "2025-11-14T00:53:08.000Z",
+      "timestamp": "2025-11-20T00:57:35.000Z",
       "decision": "blockedRule",
       "action": null
     },
     {
-      "domain": "api.branch.io",
-      "timestamp": "2025-11-13T01:03:26.000Z",
+      "domain": "api3.branch.io",
+      "timestamp": "2025-11-17T12:43:38.000Z",
       "decision": "blockedRule",
       "action": null
     },
     {
-      "domain": "developers.google.com",
-      "timestamp": "2025-11-12T00:38:08.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "githlab.com",
-      "timestamp": "2025-11-12T00:38:06.000Z",
+      "domain": "connect.facebook.net",
+      "timestamp": "2025-11-16T23:52:49.000Z",
       "decision": "blockedRule",
       "action": null
     }
@@ -188,26 +203,26 @@
     "segmentsFailed": 0,
     "fallbackUsed": false,
     "messages": [
-      "Segment 1/7 – range 7d (from=2025-11-15T01:03:42.000Z, to=2025-11-16T01:03:42.000Z)",
+      "Segment 1/7 – range 7d (from=2025-11-22T01:07:35.000Z, to=2025-11-23T01:07:35.000Z)",
       "Segment 1 returned 1000 logs (accumulated 1000).",
-      "Segment 2/7 – range 7d (from=2025-11-14T01:03:42.000Z, to=2025-11-15T01:03:42.000Z)",
+      "Segment 2/7 – range 7d (from=2025-11-21T01:07:35.000Z, to=2025-11-22T01:07:35.000Z)",
       "Segment 2 returned 1000 logs (accumulated 2000).",
-      "Segment 3/7 – range 7d (from=2025-11-13T01:03:42.000Z, to=2025-11-14T01:03:42.000Z)",
-      "Segment 3 returned 2000 logs (accumulated 4000).",
-      "Segment 4/7 – range 7d (from=2025-11-12T01:03:42.000Z, to=2025-11-13T01:03:42.000Z)",
-      "Segment 4 returned 1000 logs (accumulated 5000).",
-      "Segment 5/7 – range 7d (from=2025-11-11T01:03:42.000Z, to=2025-11-12T01:03:42.000Z)",
-      "Segment 5 returned 1000 logs (accumulated 6000).",
-      "Segment 6/7 – range 7d (from=2025-11-10T01:03:42.000Z, to=2025-11-11T01:03:42.000Z)",
-      "Segment 6 returned 2000 logs (accumulated 8000).",
-      "Segment 7/7 – range 7d (from=2025-11-09T01:03:42.000Z, to=2025-11-10T01:03:42.000Z)",
-      "Segment 7 returned 1000 logs (accumulated 9000).",
-      "Completed range 7d: gathered 9000 logs."
+      "Segment 3/7 – range 7d (from=2025-11-20T01:07:35.000Z, to=2025-11-21T01:07:35.000Z)",
+      "Segment 3 returned 1000 logs (accumulated 3000).",
+      "Segment 4/7 – range 7d (from=2025-11-19T01:07:35.000Z, to=2025-11-20T01:07:35.000Z)",
+      "Segment 4 returned 2000 logs (accumulated 5000).",
+      "Segment 5/7 – range 7d (from=2025-11-18T01:07:35.000Z, to=2025-11-19T01:07:35.000Z)",
+      "Segment 5 returned 2000 logs (accumulated 7000).",
+      "Segment 6/7 – range 7d (from=2025-11-17T01:07:35.000Z, to=2025-11-18T01:07:35.000Z)",
+      "Segment 6 returned 2000 logs (accumulated 9000).",
+      "Segment 7/7 – range 7d (from=2025-11-16T01:07:35.000Z, to=2025-11-17T01:07:35.000Z)",
+      "Segment 7 returned 1000 logs (accumulated 10000).",
+      "Completed range 7d: gathered 10000 logs."
     ],
-    "totalLogs": 9000,
-    "fetchedAt": 1763255138232,
-    "fetchedAtIso": "2025-11-16T01:05:38.232Z",
-    "fetchedCount": 795,
-    "fetchedBlocked": 13
+    "totalLogs": 10000,
+    "fetchedAt": 1763860199790,
+    "fetchedAtIso": "2025-11-23T01:09:59.790Z",
+    "fetchedCount": 745,
+    "fetchedBlocked": 38
   }
 }
