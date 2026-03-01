@@ -2,214 +2,94 @@
   "topBlocked": [
     {
       "name": "googleads.g.doubleclick.net",
-      "count": 14
-    },
-    {
-      "name": "www.googletagmanager.com",
-      "count": 13
-    },
-    {
-      "name": "api2.branch.io",
-      "count": 12
-    },
-    {
-      "name": "api.segment.io",
-      "count": 10
-    },
-    {
-      "name": "vtrk.doubleverify.com",
-      "count": 6
-    },
-    {
-      "name": "www.google-analytics.com",
-      "count": 6
+      "count": 17
     },
     {
       "name": "static.doubleclick.net",
-      "count": 3
+      "count": 6
     }
   ],
   "topBlockedNormalized": [
     {
       "name": "doubleclick.net",
-      "count": 17
-    },
-    {
-      "name": "googletagmanager.com",
-      "count": 13
-    },
-    {
-      "name": "branch.io",
-      "count": 12
-    },
-    {
-      "name": "segment.io",
-      "count": 10
-    },
-    {
-      "name": "doubleverify.com",
-      "count": 6
-    },
-    {
-      "name": "google-analytics.com",
-      "count": 6
+      "count": 23
     }
   ],
   "totals": {
-    "blocked": 64,
-    "allowed": 6936
+    "blocked": 23,
+    "allowed": 6977
   },
   "topQueries": [
     {
+      "name": "gateway.fe2.apple-dns.net",
+      "count": 167
+    },
+    {
       "name": "time.cloudflare.com",
-      "count": 251
+      "count": 145
     },
     {
       "name": "www.cloudflarestatus.com",
-      "count": 196
+      "count": 136
     },
     {
       "name": "cdn.discordapp.com",
-      "count": 154
-    },
-    {
-      "name": "gateway.fe2.apple-dns.net",
-      "count": 138
-    },
-    {
-      "name": "canary.discord.com",
-      "count": 128
+      "count": 123
     },
     {
       "name": "spclient.wg.spotify.com",
-      "count": 120
+      "count": 119
+    },
+    {
+      "name": "p2p-ord1.discovery.steamserver.net",
+      "count": 104
     },
     {
       "name": "guc3-spclient.spotify.com",
-      "count": 118
+      "count": 100
     },
     {
-      "name": "calendar.google.com",
-      "count": 95
-    },
-    {
-      "name": "p2p-dfw2.discovery.steamserver.net",
-      "count": 79
+      "name": "canary.discord.com",
+      "count": 93
     },
     {
       "name": "connectivity.cloudflareclient.com",
+      "count": 91
+    },
+    {
+      "name": "ptb.discord.com",
       "count": 74
     }
   ],
   "topBlockedTotals": [
     {
       "name": "googleads.g.doubleclick.net",
-      "blockedCount": 14,
-      "totalCount": 14
-    },
-    {
-      "name": "www.googletagmanager.com",
-      "blockedCount": 13,
-      "totalCount": 13
-    },
-    {
-      "name": "api2.branch.io",
-      "blockedCount": 12,
-      "totalCount": 12
-    },
-    {
-      "name": "api.segment.io",
-      "blockedCount": 10,
-      "totalCount": 10
-    },
-    {
-      "name": "vtrk.doubleverify.com",
-      "blockedCount": 6,
-      "totalCount": 6
-    },
-    {
-      "name": "www.google-analytics.com",
-      "blockedCount": 6,
-      "totalCount": 6
+      "blockedCount": 17,
+      "totalCount": 17
     },
     {
       "name": "static.doubleclick.net",
-      "blockedCount": 3,
-      "totalCount": 3
+      "blockedCount": 6,
+      "totalCount": 6
     }
   ],
   "topBlockedNormalizedTotals": [
     {
       "name": "doubleclick.net",
-      "blockedCount": 17,
-      "totalCount": 17
-    },
-    {
-      "name": "googletagmanager.com",
-      "blockedCount": 13,
-      "totalCount": 13
-    },
-    {
-      "name": "branch.io",
-      "blockedCount": 12,
-      "totalCount": 12
-    },
-    {
-      "name": "segment.io",
-      "blockedCount": 10,
-      "totalCount": 10
-    },
-    {
-      "name": "doubleverify.com",
-      "blockedCount": 6,
-      "totalCount": 6
-    },
-    {
-      "name": "google-analytics.com",
-      "blockedCount": 6,
-      "totalCount": 6
+      "blockedCount": 23,
+      "totalCount": 23
     }
   ],
   "blockedSamples": [
     {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2026-02-22T00:00:09.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "api2.branch.io",
-      "timestamp": "2026-02-21T23:44:04.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
       "domain": "googleads.g.doubleclick.net",
-      "timestamp": "2026-02-21T23:37:56.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "vtrk.doubleverify.com",
-      "timestamp": "2026-02-20T00:11:46.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.google-analytics.com",
-      "timestamp": "2026-02-17T23:58:18.000Z",
+      "timestamp": "2026-02-25T00:07:54.000Z",
       "decision": "blockedRule",
       "action": null
     },
     {
       "domain": "static.doubleclick.net",
-      "timestamp": "2026-02-16T23:36:04.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "api.segment.io",
-      "timestamp": "2026-02-16T00:00:44.000Z",
+      "timestamp": "2026-02-24T23:53:46.000Z",
       "decision": "blockedRule",
       "action": null
     }
@@ -227,26 +107,26 @@
     "segmentsFailed": 0,
     "fallbackUsed": false,
     "messages": [
-      "Segment 1/7 – range 7d (from=2026-02-21T00:12:14.000Z, to=2026-02-22T00:12:14.000Z)",
+      "Segment 1/7 – range 7d (from=2026-02-28T00:13:42.000Z, to=2026-03-01T00:13:42.000Z)",
       "Segment 1 returned 1000 logs (accumulated 1000).",
-      "Segment 2/7 – range 7d (from=2026-02-20T00:12:14.000Z, to=2026-02-21T00:12:14.000Z)",
+      "Segment 2/7 – range 7d (from=2026-02-27T00:13:42.000Z, to=2026-02-28T00:13:42.000Z)",
       "Segment 2 returned 1000 logs (accumulated 2000).",
-      "Segment 3/7 – range 7d (from=2026-02-19T00:12:14.000Z, to=2026-02-20T00:12:14.000Z)",
+      "Segment 3/7 – range 7d (from=2026-02-26T00:13:42.000Z, to=2026-02-27T00:13:42.000Z)",
       "Segment 3 returned 1000 logs (accumulated 3000).",
-      "Segment 4/7 – range 7d (from=2026-02-18T00:12:14.000Z, to=2026-02-19T00:12:14.000Z)",
+      "Segment 4/7 – range 7d (from=2026-02-25T00:13:42.000Z, to=2026-02-26T00:13:42.000Z)",
       "Segment 4 returned 1000 logs (accumulated 4000).",
-      "Segment 5/7 – range 7d (from=2026-02-17T00:12:14.000Z, to=2026-02-18T00:12:14.000Z)",
+      "Segment 5/7 – range 7d (from=2026-02-24T00:13:42.000Z, to=2026-02-25T00:13:42.000Z)",
       "Segment 5 returned 1000 logs (accumulated 5000).",
-      "Segment 6/7 – range 7d (from=2026-02-16T00:12:14.000Z, to=2026-02-17T00:12:14.000Z)",
+      "Segment 6/7 – range 7d (from=2026-02-23T00:13:42.000Z, to=2026-02-24T00:13:42.000Z)",
       "Segment 6 returned 1000 logs (accumulated 6000).",
-      "Segment 7/7 – range 7d (from=2026-02-15T00:12:14.000Z, to=2026-02-16T00:12:14.000Z)",
+      "Segment 7/7 – range 7d (from=2026-02-22T00:13:42.000Z, to=2026-02-23T00:13:42.000Z)",
       "Segment 7 returned 1000 logs (accumulated 7000).",
       "Completed range 7d: gathered 7000 logs."
     ],
     "totalLogs": 7000,
-    "fetchedAt": 1771719178053,
-    "fetchedAtIso": "2026-02-22T00:12:58.053Z",
-    "fetchedCount": 707,
-    "fetchedBlocked": 64
+    "fetchedAt": 1772324067254,
+    "fetchedAtIso": "2026-03-01T00:14:27.254Z",
+    "fetchedCount": 808,
+    "fetchedBlocked": 23
   }
 }
