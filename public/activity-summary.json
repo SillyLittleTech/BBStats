@@ -1,152 +1,269 @@
 {
   "topBlocked": [
     {
-      "name": "googleads.g.doubleclick.net",
-      "count": 56
-    },
-    {
-      "name": "api2.branch.io",
-      "count": 6
+      "name": "ssl.google-analytics.com",
+      "count": 24
     },
     {
       "name": "api.segment.io",
+      "count": 19
+    },
+    {
+      "name": "insights-collector.newrelic.com",
+      "count": 9
+    },
+    {
+      "name": "fastly-tls12-insights-collector.newrelic.com",
+      "count": 6
+    },
+    {
+      "name": "tls12.newrelic.com.cdn.cloudflare.net",
+      "count": 6
+    },
+    {
+      "name": "api2.branch.io",
+      "count": 4
+    },
+    {
+      "name": "www.googletagmanager.com",
       "count": 3
     },
     {
-      "name": "s.amazon-adsystem.com",
-      "count": 2
+      "name": "insights-collector.cell.nr-data.net",
+      "count": 3
+    },
+    {
+      "name": "cdn.branch.io",
+      "count": 3
+    },
+    {
+      "name": "api3.branch.io",
+      "count": 3
     }
   ],
   "topBlockedNormalized": [
     {
-      "name": "doubleclick.net",
-      "count": 56
-    },
-    {
-      "name": "branch.io",
-      "count": 6
+      "name": "google-analytics.com",
+      "count": 24
     },
     {
       "name": "segment.io",
+      "count": 19
+    },
+    {
+      "name": "newrelic.com",
+      "count": 15
+    },
+    {
+      "name": "branch.io",
+      "count": 10
+    },
+    {
+      "name": "cloudflare.net",
+      "count": 6
+    },
+    {
+      "name": "googletagmanager.com",
       "count": 3
     },
     {
-      "name": "amazon-adsystem.com",
-      "count": 2
+      "name": "nr-data.net",
+      "count": 3
     }
   ],
   "totals": {
-    "blocked": 67,
-    "allowed": 6933
+    "blocked": 80,
+    "allowed": 6920
   },
   "topQueries": [
     {
+      "name": "gateway.fe2.apple-dns.net",
+      "count": 156
+    },
+    {
+      "name": "dgw.c10r.facebook.com",
+      "count": 132
+    },
+    {
+      "name": "mqtt.c10r.facebook.com",
+      "count": 110
+    },
+    {
       "name": "time.cloudflare.com",
-      "count": 200
+      "count": 108
+    },
+    {
+      "name": "gs-loc.ls-apple.com.akadns.net",
+      "count": 83
     },
     {
       "name": "cdn.discordapp.com",
-      "count": 134
+      "count": 76
     },
     {
       "name": "mask-canary.v.aaplimg.com",
-      "count": 127
+      "count": 61
     },
     {
-      "name": "gateway.fe2.apple-dns.net",
-      "count": 114
+      "name": "www.msftconnecttest.com",
+      "count": 60
     },
     {
-      "name": "connectivity.cloudflareclient.com",
-      "count": 98
+      "name": "gateway.icloud.com",
+      "count": 59
     },
     {
-      "name": "dns.msftncsi.com",
-      "count": 92
-    },
-    {
-      "name": "spclient.wg.spotify.com",
-      "count": 90
-    },
-    {
-      "name": "guc3-spclient.spotify.com",
-      "count": 89
-    },
-    {
-      "name": "canary.discord.com",
-      "count": 88
-    },
-    {
-      "name": "www.cloudflarestatus.com",
-      "count": 76
+      "name": "wpad.hsd1.co.comcast.net",
+      "count": 57
     }
   ],
   "topBlockedTotals": [
     {
-      "name": "googleads.g.doubleclick.net",
-      "blockedCount": 56,
-      "totalCount": 56
+      "name": "ssl.google-analytics.com",
+      "blockedCount": 24,
+      "totalCount": 24
     },
     {
-      "name": "api2.branch.io",
+      "name": "api.segment.io",
+      "blockedCount": 19,
+      "totalCount": 19
+    },
+    {
+      "name": "insights-collector.newrelic.com",
+      "blockedCount": 9,
+      "totalCount": 9
+    },
+    {
+      "name": "fastly-tls12-insights-collector.newrelic.com",
       "blockedCount": 6,
       "totalCount": 6
     },
     {
-      "name": "api.segment.io",
+      "name": "tls12.newrelic.com.cdn.cloudflare.net",
+      "blockedCount": 6,
+      "totalCount": 6
+    },
+    {
+      "name": "api2.branch.io",
+      "blockedCount": 4,
+      "totalCount": 4
+    },
+    {
+      "name": "www.googletagmanager.com",
       "blockedCount": 3,
       "totalCount": 3
     },
     {
-      "name": "s.amazon-adsystem.com",
-      "blockedCount": 2,
-      "totalCount": 2
+      "name": "insights-collector.cell.nr-data.net",
+      "blockedCount": 3,
+      "totalCount": 3
+    },
+    {
+      "name": "cdn.branch.io",
+      "blockedCount": 3,
+      "totalCount": 3
+    },
+    {
+      "name": "api3.branch.io",
+      "blockedCount": 3,
+      "totalCount": 3
     }
   ],
   "topBlockedNormalizedTotals": [
     {
-      "name": "doubleclick.net",
-      "blockedCount": 56,
-      "totalCount": 56
+      "name": "google-analytics.com",
+      "blockedCount": 24,
+      "totalCount": 24
+    },
+    {
+      "name": "segment.io",
+      "blockedCount": 19,
+      "totalCount": 19
+    },
+    {
+      "name": "newrelic.com",
+      "blockedCount": 15,
+      "totalCount": 15
     },
     {
       "name": "branch.io",
+      "blockedCount": 10,
+      "totalCount": 10
+    },
+    {
+      "name": "cloudflare.net",
       "blockedCount": 6,
       "totalCount": 6
     },
     {
-      "name": "segment.io",
+      "name": "googletagmanager.com",
       "blockedCount": 3,
       "totalCount": 3
     },
     {
-      "name": "amazon-adsystem.com",
-      "blockedCount": 2,
-      "totalCount": 24
+      "name": "nr-data.net",
+      "blockedCount": 3,
+      "totalCount": 3
     }
   ],
   "blockedSamples": [
     {
       "domain": "api.segment.io",
-      "timestamp": "2026-03-12T22:35:04.000Z",
+      "timestamp": "2026-03-21T23:46:13.000Z",
       "decision": "blockedRule",
       "action": null
     },
     {
-      "domain": "googleads.g.doubleclick.net",
-      "timestamp": "2026-03-10T00:01:35.000Z",
+      "domain": "fastly-tls12-insights-collector.newrelic.com",
+      "timestamp": "2026-03-21T23:40:16.000Z",
       "decision": "blockedRule",
       "action": null
     },
     {
-      "domain": "s.amazon-adsystem.com",
-      "timestamp": "2026-03-09T23:59:46.000Z",
+      "domain": "insights-collector.newrelic.com",
+      "timestamp": "2026-03-21T23:40:16.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "www.googletagmanager.com",
+      "timestamp": "2026-03-21T00:06:20.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "ssl.google-analytics.com",
+      "timestamp": "2026-03-21T00:02:05.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "insights-collector.cell.nr-data.net",
+      "timestamp": "2026-03-20T23:51:04.000Z",
       "decision": "blockedRule",
       "action": null
     },
     {
       "domain": "api2.branch.io",
-      "timestamp": "2026-03-09T23:53:26.000Z",
+      "timestamp": "2026-03-19T00:09:34.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "tls12.newrelic.com.cdn.cloudflare.net",
+      "timestamp": "2026-03-17T23:51:50.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "cdn.branch.io",
+      "timestamp": "2026-03-17T23:36:50.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "api3.branch.io",
+      "timestamp": "2026-03-17T23:36:47.000Z",
       "decision": "blockedRule",
       "action": null
     }
@@ -164,26 +281,26 @@
     "segmentsFailed": 0,
     "fallbackUsed": false,
     "messages": [
-      "Segment 1/7 – range 7d (from=2026-03-14T00:14:53.000Z, to=2026-03-15T00:14:53.000Z)",
+      "Segment 1/7 – range 7d (from=2026-03-21T00:13:48.000Z, to=2026-03-22T00:13:48.000Z)",
       "Segment 1 returned 1000 logs (accumulated 1000).",
-      "Segment 2/7 – range 7d (from=2026-03-13T00:14:53.000Z, to=2026-03-14T00:14:53.000Z)",
+      "Segment 2/7 – range 7d (from=2026-03-20T00:13:48.000Z, to=2026-03-21T00:13:48.000Z)",
       "Segment 2 returned 1000 logs (accumulated 2000).",
-      "Segment 3/7 – range 7d (from=2026-03-12T00:14:53.000Z, to=2026-03-13T00:14:53.000Z)",
+      "Segment 3/7 – range 7d (from=2026-03-19T00:13:48.000Z, to=2026-03-20T00:13:48.000Z)",
       "Segment 3 returned 1000 logs (accumulated 3000).",
-      "Segment 4/7 – range 7d (from=2026-03-11T00:14:53.000Z, to=2026-03-12T00:14:53.000Z)",
+      "Segment 4/7 – range 7d (from=2026-03-18T00:13:48.000Z, to=2026-03-19T00:13:48.000Z)",
       "Segment 4 returned 1000 logs (accumulated 4000).",
-      "Segment 5/7 – range 7d (from=2026-03-10T00:14:53.000Z, to=2026-03-11T00:14:53.000Z)",
+      "Segment 5/7 – range 7d (from=2026-03-17T00:13:48.000Z, to=2026-03-18T00:13:48.000Z)",
       "Segment 5 returned 1000 logs (accumulated 5000).",
-      "Segment 6/7 – range 7d (from=2026-03-09T00:14:53.000Z, to=2026-03-10T00:14:53.000Z)",
+      "Segment 6/7 – range 7d (from=2026-03-16T00:13:48.000Z, to=2026-03-17T00:13:48.000Z)",
       "Segment 6 returned 1000 logs (accumulated 6000).",
-      "Segment 7/7 – range 7d (from=2026-03-08T00:14:53.000Z, to=2026-03-09T00:14:53.000Z)",
+      "Segment 7/7 – range 7d (from=2026-03-15T00:13:48.000Z, to=2026-03-16T00:13:48.000Z)",
       "Segment 7 returned 1000 logs (accumulated 7000).",
       "Completed range 7d: gathered 7000 logs."
     ],
     "totalLogs": 7000,
-    "fetchedAt": 1773533743473,
-    "fetchedAtIso": "2026-03-15T00:15:43.473Z",
-    "fetchedCount": 599,
-    "fetchedBlocked": 67
+    "fetchedAt": 1774138479374,
+    "fetchedAtIso": "2026-03-22T00:14:39.374Z",
+    "fetchedCount": 743,
+    "fetchedBlocked": 80
   }
 }
