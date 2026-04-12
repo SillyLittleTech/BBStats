@@ -1,290 +1,338 @@
 {
   "topBlocked": [
     {
-      "name": "ssl.google-analytics.com",
-      "count": 18
+      "name": "www.googletagmanager.com",
+      "count": 13
     },
     {
-      "name": "pubads.g.doubleclick.net",
+      "name": "api.segment.io",
+      "count": 13
+    },
+    {
+      "name": "ssl.google-analytics.com",
+      "count": 12
+    },
+    {
+      "name": "mobile-collector.cell.nr-data.net",
+      "count": 9
+    },
+    {
+      "name": "www.googletagservices.com",
+      "count": 6
+    },
+    {
+      "name": "cdn.branch.io",
+      "count": 6
+    },
+    {
+      "name": "api3.branch.io",
       "count": 6
     },
     {
       "name": "googleads.g.doubleclick.net",
-      "count": 6
-    },
-    {
-      "name": "mobile-collector.cell.nr-data.net",
-      "count": 6
-    },
-    {
-      "name": "mobile-collector.newrelic.com.cdn.cloudflare.net",
       "count": 4
     },
     {
-      "name": "api3.branch.io",
-      "count": 3
+      "name": "api2.branch.io",
+      "count": 4
     },
     {
-      "name": "cdn.branch.io",
-      "count": 3
-    },
-    {
-      "name": "fastly-mobile-collector.newrelic.com",
-      "count": 3
-    },
-    {
-      "name": "js-agent.newrelic.com",
-      "count": 3
-    },
-    {
-      "name": "www.googletagmanager.com",
+      "name": "developers.google.com",
       "count": 3
     }
   ],
   "topBlockedNormalized": [
     {
-      "name": "google-analytics.com",
-      "count": 18
-    },
-    {
-      "name": "doubleclick.net",
-      "count": 12
-    },
-    {
-      "name": "newrelic.com",
-      "count": 9
-    },
-    {
       "name": "branch.io",
-      "count": 6
-    },
-    {
-      "name": "nr-data.net",
-      "count": 6
-    },
-    {
-      "name": "cloudflare.net",
-      "count": 4
-    },
-    {
-      "name": "demdex.net",
-      "count": 4
+      "count": 16
     },
     {
       "name": "googletagmanager.com",
+      "count": 13
+    },
+    {
+      "name": "segment.io",
+      "count": 13
+    },
+    {
+      "name": "google-analytics.com",
+      "count": 12
+    },
+    {
+      "name": "nr-data.net",
+      "count": 9
+    },
+    {
+      "name": "newrelic.com",
+      "count": 7
+    },
+    {
+      "name": "googletagservices.com",
+      "count": 6
+    },
+    {
+      "name": "doubleclick.net",
+      "count": 4
+    },
+    {
+      "name": "google.com",
+      "count": 3
+    },
+    {
+      "name": "tinypass.com",
       "count": 3
     }
   ],
   "totals": {
-    "blocked": 62,
-    "allowed": 6938
+    "blocked": 93,
+    "allowed": 6907
   },
   "topQueries": [
     {
-      "name": "time.cloudflare.com",
-      "count": 146
-    },
-    {
-      "name": "spclient.wg.spotify.com",
-      "count": 110
-    },
-    {
-      "name": "guc3-spclient.spotify.com",
-      "count": 102
-    },
-    {
-      "name": "canary.discord.com",
-      "count": 83
-    },
-    {
-      "name": "catalog.gamepass.com",
-      "count": 76
-    },
-    {
-      "name": "www.cloudflarestatus.com",
-      "count": 76
+      "name": "mmx-ds.cdn.whatsapp.net",
+      "count": 128
     },
     {
       "name": "www.google.com",
-      "count": 63
-    },
-    {
-      "name": "mmx-ds.cdn.whatsapp.net",
-      "count": 62
-    },
-    {
-      "name": "p2p-sea1.discovery.steamserver.net",
-      "count": 62
+      "count": 96
     },
     {
       "name": "mask.apple-dns.net",
-      "count": 61
+      "count": 92
+    },
+    {
+      "name": "time.cloudflare.com",
+      "count": 77
+    },
+    {
+      "name": "nexus-websocket-a.intercom.io",
+      "count": 64
+    },
+    {
+      "name": "chat.cdn.whatsapp.net",
+      "count": 54
+    },
+    {
+      "name": "app-analytics-services.com",
+      "count": 52
+    },
+    {
+      "name": "gs-loc.ls-apple.com.akadns.net",
+      "count": 50
+    },
+    {
+      "name": "ocsp2.g.aaplimg.com",
+      "count": 49
+    },
+    {
+      "name": "gateway.fe2.apple-dns.net",
+      "count": 46
     }
   ],
   "topBlockedTotals": [
     {
-      "name": "ssl.google-analytics.com",
-      "blockedCount": 18,
-      "totalCount": 18
+      "name": "www.googletagmanager.com",
+      "blockedCount": 13,
+      "totalCount": 13
     },
     {
-      "name": "pubads.g.doubleclick.net",
+      "name": "api.segment.io",
+      "blockedCount": 13,
+      "totalCount": 13
+    },
+    {
+      "name": "ssl.google-analytics.com",
+      "blockedCount": 12,
+      "totalCount": 12
+    },
+    {
+      "name": "mobile-collector.cell.nr-data.net",
+      "blockedCount": 9,
+      "totalCount": 9
+    },
+    {
+      "name": "www.googletagservices.com",
+      "blockedCount": 6,
+      "totalCount": 6
+    },
+    {
+      "name": "cdn.branch.io",
+      "blockedCount": 6,
+      "totalCount": 6
+    },
+    {
+      "name": "api3.branch.io",
       "blockedCount": 6,
       "totalCount": 6
     },
     {
       "name": "googleads.g.doubleclick.net",
-      "blockedCount": 6,
-      "totalCount": 6
-    },
-    {
-      "name": "mobile-collector.cell.nr-data.net",
-      "blockedCount": 6,
-      "totalCount": 6
-    },
-    {
-      "name": "mobile-collector.newrelic.com.cdn.cloudflare.net",
       "blockedCount": 4,
       "totalCount": 4
     },
     {
-      "name": "api3.branch.io",
-      "blockedCount": 3,
-      "totalCount": 3
+      "name": "api2.branch.io",
+      "blockedCount": 4,
+      "totalCount": 4
     },
     {
-      "name": "cdn.branch.io",
-      "blockedCount": 3,
-      "totalCount": 3
-    },
-    {
-      "name": "fastly-mobile-collector.newrelic.com",
-      "blockedCount": 3,
-      "totalCount": 3
-    },
-    {
-      "name": "js-agent.newrelic.com",
-      "blockedCount": 3,
-      "totalCount": 3
-    },
-    {
-      "name": "www.googletagmanager.com",
+      "name": "developers.google.com",
       "blockedCount": 3,
       "totalCount": 3
     }
   ],
   "topBlockedNormalizedTotals": [
     {
-      "name": "google-analytics.com",
-      "blockedCount": 18,
-      "totalCount": 18
+      "name": "branch.io",
+      "blockedCount": 16,
+      "totalCount": 16
     },
     {
-      "name": "doubleclick.net",
+      "name": "googletagmanager.com",
+      "blockedCount": 13,
+      "totalCount": 13
+    },
+    {
+      "name": "segment.io",
+      "blockedCount": 13,
+      "totalCount": 13
+    },
+    {
+      "name": "google-analytics.com",
       "blockedCount": 12,
       "totalCount": 12
     },
     {
-      "name": "newrelic.com",
+      "name": "nr-data.net",
       "blockedCount": 9,
       "totalCount": 9
     },
     {
-      "name": "branch.io",
+      "name": "newrelic.com",
+      "blockedCount": 7,
+      "totalCount": 7
+    },
+    {
+      "name": "googletagservices.com",
       "blockedCount": 6,
       "totalCount": 6
     },
     {
-      "name": "nr-data.net",
-      "blockedCount": 6,
-      "totalCount": 6
-    },
-    {
-      "name": "cloudflare.net",
+      "name": "doubleclick.net",
       "blockedCount": 4,
-      "totalCount": 13
+      "totalCount": 4
     },
     {
-      "name": "demdex.net",
-      "blockedCount": 4,
-      "totalCount": 6
+      "name": "google.com",
+      "blockedCount": 3,
+      "totalCount": 316
     },
     {
-      "name": "googletagmanager.com",
+      "name": "tinypass.com",
       "blockedCount": 3,
       "totalCount": 3
     }
   ],
   "blockedSamples": [
     {
-      "domain": "api3.branch.io",
-      "timestamp": "2026-04-04T23:53:29.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "ssl.google-analytics.com",
-      "timestamp": "2026-04-04T00:14:21.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "cdn.branch.io",
-      "timestamp": "2026-04-02T00:02:52.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "pubads.g.doubleclick.net",
-      "timestamp": "2026-04-01T23:59:38.000Z",
+      "domain": "www.googletagservices.com",
+      "timestamp": "2026-04-12T00:12:38.000Z",
       "decision": "blockedRule",
       "action": null
     },
     {
       "domain": "googleads.g.doubleclick.net",
-      "timestamp": "2026-04-01T23:59:38.000Z",
+      "timestamp": "2026-04-12T00:09:12.000Z",
       "decision": "blockedRule",
       "action": null
     },
     {
-      "domain": "fastly-mobile-collector.newrelic.com",
-      "timestamp": "2026-03-31T00:15:52.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "mobile-collector.cell.nr-data.net",
-      "timestamp": "2026-03-31T00:14:03.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "mobile-collector.newrelic.com.cdn.cloudflare.net",
-      "timestamp": "2026-03-31T00:14:03.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "dpm.demdex.net",
-      "timestamp": "2026-03-31T00:11:22.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "js-agent.newrelic.com",
-      "timestamp": "2026-03-31T00:11:18.000Z",
+      "domain": "static.ads-twitter.com",
+      "timestamp": "2026-04-12T00:09:12.000Z",
       "decision": "blockedRule",
       "action": null
     },
     {
       "domain": "www.googletagmanager.com",
-      "timestamp": "2026-03-31T00:11:18.000Z",
+      "timestamp": "2026-04-12T00:09:11.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "developers.google.com",
+      "timestamp": "2026-04-11T00:04:30.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "cdn.branch.io",
+      "timestamp": "2026-04-10T00:18:01.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "api3.branch.io",
+      "timestamp": "2026-04-10T00:17:58.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "tls12.newrelic.com.cdn.cloudflare.net",
+      "timestamp": "2026-04-10T00:07:11.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "insights-collector.newrelic.com",
+      "timestamp": "2026-04-10T00:07:10.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "ssl.google-analytics.com",
+      "timestamp": "2026-04-09T00:17:40.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "api.segment.io",
+      "timestamp": "2026-04-09T00:17:37.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "api2.branch.io",
+      "timestamp": "2026-04-09T00:17:10.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "mobile-collector.cell.nr-data.net",
+      "timestamp": "2026-04-08T00:17:33.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "api.tinypass.com",
+      "timestamp": "2026-04-08T00:12:08.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "fastly-mobile-collector.newrelic.com",
+      "timestamp": "2026-04-08T00:07:48.000Z",
       "decision": "blockedRule",
       "action": null
     },
     {
       "domain": "mobile-collector.newrelic.com",
-      "timestamp": "2026-03-31T00:09:55.000Z",
+      "timestamp": "2026-04-08T00:07:47.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "api-js.mixpanel.com",
+      "timestamp": "2026-04-06T23:57:59.000Z",
       "decision": "blockedRule",
       "action": null
     }
@@ -302,26 +350,26 @@
     "segmentsFailed": 0,
     "fallbackUsed": false,
     "messages": [
-      "Segment 1/7 – range 7d (from=2026-04-04T00:16:32.000Z, to=2026-04-05T00:16:32.000Z)",
+      "Segment 1/7 – range 7d (from=2026-04-11T00:18:13.000Z, to=2026-04-12T00:18:13.000Z)",
       "Segment 1 returned 1000 logs (accumulated 1000).",
-      "Segment 2/7 – range 7d (from=2026-04-03T00:16:32.000Z, to=2026-04-04T00:16:32.000Z)",
+      "Segment 2/7 – range 7d (from=2026-04-10T00:18:13.000Z, to=2026-04-11T00:18:13.000Z)",
       "Segment 2 returned 1000 logs (accumulated 2000).",
-      "Segment 3/7 – range 7d (from=2026-04-02T00:16:32.000Z, to=2026-04-03T00:16:32.000Z)",
+      "Segment 3/7 – range 7d (from=2026-04-09T00:18:13.000Z, to=2026-04-10T00:18:13.000Z)",
       "Segment 3 returned 1000 logs (accumulated 3000).",
-      "Segment 4/7 – range 7d (from=2026-04-01T00:16:32.000Z, to=2026-04-02T00:16:32.000Z)",
+      "Segment 4/7 – range 7d (from=2026-04-08T00:18:13.000Z, to=2026-04-09T00:18:13.000Z)",
       "Segment 4 returned 1000 logs (accumulated 4000).",
-      "Segment 5/7 – range 7d (from=2026-03-31T00:16:32.000Z, to=2026-04-01T00:16:32.000Z)",
+      "Segment 5/7 – range 7d (from=2026-04-07T00:18:13.000Z, to=2026-04-08T00:18:13.000Z)",
       "Segment 5 returned 1000 logs (accumulated 5000).",
-      "Segment 6/7 – range 7d (from=2026-03-30T00:16:32.000Z, to=2026-03-31T00:16:32.000Z)",
+      "Segment 6/7 – range 7d (from=2026-04-06T00:18:13.000Z, to=2026-04-07T00:18:13.000Z)",
       "Segment 6 returned 1000 logs (accumulated 6000).",
-      "Segment 7/7 – range 7d (from=2026-03-29T00:16:32.000Z, to=2026-03-30T00:16:32.000Z)",
+      "Segment 7/7 – range 7d (from=2026-04-05T00:18:13.000Z, to=2026-04-06T00:18:13.000Z)",
       "Segment 7 returned 1000 logs (accumulated 7000).",
       "Completed range 7d: gathered 7000 logs."
     ],
     "totalLogs": 7000,
-    "fetchedAt": 1775348243220,
-    "fetchedAtIso": "2026-04-05T00:17:23.220Z",
-    "fetchedCount": 859,
-    "fetchedBlocked": 62
+    "fetchedAt": 1775953155411,
+    "fetchedAtIso": "2026-04-12T00:19:15.411Z",
+    "fetchedCount": 1027,
+    "fetchedBlocked": 93
   }
 }
