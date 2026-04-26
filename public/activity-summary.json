@@ -2,433 +2,415 @@
   "topBlocked": [
     {
       "name": "googleads.g.doubleclick.net",
-      "count": 15
-    },
-    {
-      "name": "b.applovin.com",
-      "count": 10
-    },
-    {
-      "name": "www.googletagmanager.com",
-      "count": 9
-    },
-    {
-      "name": "assets.adobedtm.com",
-      "count": 9
+      "count": 42
     },
     {
       "name": "ms.applovin.com",
-      "count": 9
+      "count": 26
     },
     {
       "name": "rt.applovin.com",
-      "count": 7
+      "count": 22
     },
     {
-      "name": "ssl.google-analytics.com",
-      "count": 7
+      "name": "cell8003.iad.mobile.event-na.ads.aps.amazon-adsystem.com",
+      "count": 15
     },
     {
       "name": "s.amazon-adsystem.com",
-      "count": 6
+      "count": 13
+    },
+    {
+      "name": "prod-mediate-events.applovin.com",
+      "count": 13
+    },
+    {
+      "name": "cell8003.iad.mobile.bid-na.ads.aps.amazon-adsystem.com",
+      "count": 12
+    },
+    {
+      "name": "rt.applvn.com",
+      "count": 12
     },
     {
       "name": "init.supersonicads.com",
-      "count": 5
+      "count": 12
     },
     {
-      "name": "api.segment.io",
-      "count": 5
+      "name": "ssl.google-analytics.com",
+      "count": 12
     }
   ],
   "topBlockedNormalized": [
     {
       "name": "applovin.com",
-      "count": 33
-    },
-    {
-      "name": "doubleclick.net",
-      "count": 18
-    },
-    {
-      "name": "branch.io",
-      "count": 15
-    },
-    {
-      "name": "applvn.com",
-      "count": 14
-    },
-    {
-      "name": "googletagmanager.com",
-      "count": 9
-    },
-    {
-      "name": "adobedtm.com",
-      "count": 9
-    },
-    {
-      "name": "newrelic.com",
-      "count": 9
-    },
-    {
-      "name": "amazon-adsystem.com",
-      "count": 8
-    },
-    {
-      "name": "google-analytics.com",
-      "count": 7
-    },
-    {
-      "name": "supersonicads.com",
-      "count": 5
-    }
-  ],
-  "totals": {
-    "blocked": 151,
-    "allowed": 6849
-  },
-  "topQueries": [
-    {
-      "name": "p2p-dfw2.discovery.steamserver.net",
-      "count": 173
-    },
-    {
-      "name": "mmx-ds.cdn.whatsapp.net",
-      "count": 120
-    },
-    {
-      "name": "time.cloudflare.com",
-      "count": 107
-    },
-    {
-      "name": "www.cloudflarestatus.com",
-      "count": 88
-    },
-    {
-      "name": "mask.apple-dns.net",
-      "count": 83
-    },
-    {
-      "name": "spclient.wg.spotify.com",
-      "count": 80
-    },
-    {
-      "name": "mobile.events.data.microsoft.com",
       "count": 78
     },
     {
+      "name": "doubleclick.net",
+      "count": 54
+    },
+    {
+      "name": "amazon-adsystem.com",
+      "count": 49
+    },
+    {
+      "name": "applvn.com",
+      "count": 33
+    },
+    {
+      "name": "google-analytics.com",
+      "count": 15
+    },
+    {
+      "name": "supersonicads.com",
+      "count": 12
+    },
+    {
+      "name": "branch.io",
+      "count": 8
+    },
+    {
+      "name": "adnxs.com",
+      "count": 6
+    },
+    {
+      "name": "vungle.com",
+      "count": 6
+    },
+    {
+      "name": "googletagmanager.com",
+      "count": 6
+    }
+  ],
+  "totals": {
+    "blocked": 280,
+    "allowed": 6720
+  },
+  "topQueries": [
+    {
+      "name": "mask.apple-dns.net",
+      "count": 134
+    },
+    {
+      "name": "time.cloudflare.com",
+      "count": 112
+    },
+    {
+      "name": "p2p-iad1.discovery.steamserver.net",
+      "count": 108
+    },
+    {
+      "name": "mmx-ds.cdn.whatsapp.net",
+      "count": 86
+    },
+    {
+      "name": "e6858.dsce9.akamaiedge.net",
+      "count": 85
+    },
+    {
+      "name": "e673.dsce9.akamaiedge.net",
+      "count": 84
+    },
+    {
+      "name": "www.cloudflarestatus.com",
+      "count": 82
+    },
+    {
+      "name": "gateway.fe2.apple-dns.net",
+      "count": 75
+    },
+    {
       "name": "www.google.com",
-      "count": 77
+      "count": 71
     },
     {
-      "name": "connectivity.cloudflareclient.com",
-      "count": 70
-    },
-    {
-      "name": "guc3-spclient.spotify.com",
-      "count": 60
+      "name": "p48-contacts.icloud.com",
+      "count": 68
     }
   ],
   "topBlockedTotals": [
     {
       "name": "googleads.g.doubleclick.net",
+      "blockedCount": 42,
+      "totalCount": 42
+    },
+    {
+      "name": "ms.applovin.com",
+      "blockedCount": 26,
+      "totalCount": 26
+    },
+    {
+      "name": "rt.applovin.com",
+      "blockedCount": 22,
+      "totalCount": 22
+    },
+    {
+      "name": "cell8003.iad.mobile.event-na.ads.aps.amazon-adsystem.com",
       "blockedCount": 15,
       "totalCount": 15
     },
     {
-      "name": "b.applovin.com",
-      "blockedCount": 10,
-      "totalCount": 10
-    },
-    {
-      "name": "www.googletagmanager.com",
-      "blockedCount": 9,
-      "totalCount": 9
-    },
-    {
-      "name": "assets.adobedtm.com",
-      "blockedCount": 9,
-      "totalCount": 9
-    },
-    {
-      "name": "ms.applovin.com",
-      "blockedCount": 9,
-      "totalCount": 9
-    },
-    {
-      "name": "rt.applovin.com",
-      "blockedCount": 7,
-      "totalCount": 7
-    },
-    {
-      "name": "ssl.google-analytics.com",
-      "blockedCount": 7,
-      "totalCount": 7
-    },
-    {
       "name": "s.amazon-adsystem.com",
-      "blockedCount": 6,
-      "totalCount": 6
+      "blockedCount": 13,
+      "totalCount": 13
+    },
+    {
+      "name": "prod-mediate-events.applovin.com",
+      "blockedCount": 13,
+      "totalCount": 13
+    },
+    {
+      "name": "cell8003.iad.mobile.bid-na.ads.aps.amazon-adsystem.com",
+      "blockedCount": 12,
+      "totalCount": 12
+    },
+    {
+      "name": "rt.applvn.com",
+      "blockedCount": 12,
+      "totalCount": 12
     },
     {
       "name": "init.supersonicads.com",
-      "blockedCount": 5,
-      "totalCount": 5
+      "blockedCount": 12,
+      "totalCount": 12
     },
     {
-      "name": "api.segment.io",
-      "blockedCount": 5,
-      "totalCount": 5
+      "name": "ssl.google-analytics.com",
+      "blockedCount": 12,
+      "totalCount": 12
     }
   ],
   "topBlockedNormalizedTotals": [
     {
       "name": "applovin.com",
+      "blockedCount": 78,
+      "totalCount": 78
+    },
+    {
+      "name": "doubleclick.net",
+      "blockedCount": 54,
+      "totalCount": 54
+    },
+    {
+      "name": "amazon-adsystem.com",
+      "blockedCount": 49,
+      "totalCount": 49
+    },
+    {
+      "name": "applvn.com",
       "blockedCount": 33,
       "totalCount": 33
     },
     {
-      "name": "doubleclick.net",
-      "blockedCount": 18,
-      "totalCount": 18
-    },
-    {
-      "name": "branch.io",
+      "name": "google-analytics.com",
       "blockedCount": 15,
       "totalCount": 15
     },
     {
-      "name": "applvn.com",
-      "blockedCount": 14,
-      "totalCount": 14
+      "name": "supersonicads.com",
+      "blockedCount": 12,
+      "totalCount": 12
     },
     {
-      "name": "googletagmanager.com",
-      "blockedCount": 9,
-      "totalCount": 9
-    },
-    {
-      "name": "adobedtm.com",
-      "blockedCount": 9,
-      "totalCount": 9
-    },
-    {
-      "name": "newrelic.com",
-      "blockedCount": 9,
-      "totalCount": 9
-    },
-    {
-      "name": "amazon-adsystem.com",
+      "name": "branch.io",
       "blockedCount": 8,
       "totalCount": 8
     },
     {
-      "name": "google-analytics.com",
-      "blockedCount": 7,
-      "totalCount": 7
+      "name": "adnxs.com",
+      "blockedCount": 6,
+      "totalCount": 6
     },
     {
-      "name": "supersonicads.com",
-      "blockedCount": 5,
-      "totalCount": 5
+      "name": "vungle.com",
+      "blockedCount": 6,
+      "totalCount": 6
+    },
+    {
+      "name": "googletagmanager.com",
+      "blockedCount": 6,
+      "totalCount": 6
     }
   ],
   "blockedSamples": [
     {
-      "domain": "pagead2.googlesyndication.com",
-      "timestamp": "2026-04-18T00:16:55.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "www.googletagmanager.com",
-      "timestamp": "2026-04-18T00:16:45.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "api.mixpanel.com",
-      "timestamp": "2026-04-18T00:13:34.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "assets.adobedtm.com",
-      "timestamp": "2026-04-18T00:13:23.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "ad.doubleclick.net",
-      "timestamp": "2026-04-18T00:08:06.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "init.supersonicads.com",
-      "timestamp": "2026-04-18T00:07:53.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "googleads.g.doubleclick.net",
-      "timestamp": "2026-04-18T00:05:12.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "gateway.unityads.unity3d.com",
-      "timestamp": "2026-04-18T00:03:42.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "b.applovin.com",
-      "timestamp": "2026-04-17T00:18:51.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "api.segment.io",
-      "timestamp": "2026-04-17T00:15:03.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "api2.branch.io",
-      "timestamp": "2026-04-17T00:12:20.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "rt.applvn.com",
-      "timestamp": "2026-04-17T00:11:37.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "a.applvn.com",
-      "timestamp": "2026-04-17T00:11:37.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "d.applvn.com",
-      "timestamp": "2026-04-17T00:11:06.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "rt.applovin.com",
-      "timestamp": "2026-04-17T00:10:56.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "d.applovin.com",
-      "timestamp": "2026-04-17T00:10:56.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "ms.applvn.com",
-      "timestamp": "2026-04-17T00:10:55.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "analytics.adjust.com",
-      "timestamp": "2026-04-17T00:10:50.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "ms.applovin.com",
-      "timestamp": "2026-04-17T00:10:49.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "prod-mediate-events.applovin.com",
-      "timestamp": "2026-04-17T00:09:35.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "logs.ads.vungle.com",
-      "timestamp": "2026-04-17T00:09:21.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "cell8001.iad.mobile.event-na.ads.aps.amazon-adsystem.com",
-      "timestamp": "2026-04-17T00:09:13.000Z",
+      "domain": "msft-ssp-useast.adnxs.com",
+      "timestamp": "2026-04-26T00:18:07.000Z",
       "decision": "blockedRule",
       "action": null
     },
     {
       "domain": "s.amazon-adsystem.com",
-      "timestamp": "2026-04-17T00:09:12.000Z",
+      "timestamp": "2026-04-24T00:21:08.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "cell8003.iad.mobile.bid-na.ads.aps.amazon-adsystem.com",
+      "timestamp": "2026-04-24T00:21:08.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "b.applovin.com",
+      "timestamp": "2026-04-24T00:21:03.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "prod-mediate-events.applovin.com",
+      "timestamp": "2026-04-24T00:20:45.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "googleads.g.doubleclick.net",
+      "timestamp": "2026-04-24T00:20:41.000Z",
       "decision": "blockedRule",
       "action": null
     },
     {
       "domain": "sts.applovin.com",
-      "timestamp": "2026-04-17T00:07:14.000Z",
+      "timestamp": "2026-04-24T00:20:41.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "cell8003.iad.mobile.event-na.ads.aps.amazon-adsystem.com",
+      "timestamp": "2026-04-24T00:20:30.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "cell8001.iad.mobile.event-na.ads.aps.amazon-adsystem.com",
+      "timestamp": "2026-04-24T00:20:30.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "rt.applvn.com",
+      "timestamp": "2026-04-24T00:20:27.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "ms.applovin.com",
+      "timestamp": "2026-04-24T00:20:23.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "rt.applovin.com",
+      "timestamp": "2026-04-24T00:20:17.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "logs.ads.vungle.com",
+      "timestamp": "2026-04-24T00:19:54.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "init.supersonicads.com",
+      "timestamp": "2026-04-24T00:19:51.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "ms.applvn.com",
+      "timestamp": "2026-04-24T00:19:44.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "a.applvn.com",
+      "timestamp": "2026-04-24T00:19:39.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "api2.branch.io",
+      "timestamp": "2026-04-23T00:20:58.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "pagead2.googlesyndication.com",
+      "timestamp": "2026-04-23T00:20:24.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "www.googletagmanager.com",
+      "timestamp": "2026-04-23T00:08:07.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "www.google-analytics.com",
+      "timestamp": "2026-04-23T00:08:07.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "static.doubleclick.net",
+      "timestamp": "2026-04-23T00:08:06.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "www.googleadservices.com",
+      "timestamp": "2026-04-23T00:08:05.000Z",
       "decision": "blockedRule",
       "action": null
     },
     {
       "domain": "ssl.google-analytics.com",
-      "timestamp": "2026-04-16T00:14:45.000Z",
+      "timestamp": "2026-04-21T23:44:42.000Z",
       "decision": "blockedRule",
       "action": null
     },
     {
-      "domain": "fastly-tls12-insights-collector.newrelic.com",
-      "timestamp": "2026-04-16T00:05:14.000Z",
+      "domain": "insights-collector.cell.nr-data.net",
+      "timestamp": "2026-04-21T00:19:47.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "cm.g.doubleclick.net",
+      "timestamp": "2026-04-21T00:18:16.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "stats.g.doubleclick.net",
+      "timestamp": "2026-04-21T00:17:55.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "ad.doubleclick.net",
+      "timestamp": "2026-04-21T00:17:45.000Z",
+      "decision": "blockedRule",
+      "action": null
+    },
+    {
+      "domain": "msft-ssp.adnxs.com",
+      "timestamp": "2026-04-21T00:16:22.000Z",
       "decision": "blockedRule",
       "action": null
     },
     {
       "domain": "insights-collector.newrelic.com",
-      "timestamp": "2026-04-16T00:05:13.000Z",
+      "timestamp": "2026-04-21T00:10:38.000Z",
       "decision": "blockedRule",
       "action": null
     },
     {
-      "domain": "cdn.branch.io",
-      "timestamp": "2026-04-15T23:43:05.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "gslb-2.demdex.net",
-      "timestamp": "2026-04-15T23:43:03.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "api3.branch.io",
-      "timestamp": "2026-04-15T23:43:02.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "fastly-mobile-collector.newrelic.com",
-      "timestamp": "2026-04-15T23:29:36.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "mobile-collector.newrelic.com",
-      "timestamp": "2026-04-15T23:29:35.000Z",
-      "decision": "blockedRule",
-      "action": null
-    },
-    {
-      "domain": "api.branch.io",
-      "timestamp": "2026-04-13T00:03:58.000Z",
+      "domain": "fastly-tls12-insights-collector.newrelic.com",
+      "timestamp": "2026-04-21T00:10:38.000Z",
       "decision": "blockedRule",
       "action": null
     }
@@ -446,26 +428,26 @@
     "segmentsFailed": 0,
     "fallbackUsed": false,
     "messages": [
-      "Segment 1/7 – range 7d (from=2026-04-18T00:19:28.000Z, to=2026-04-19T00:19:28.000Z)",
+      "Segment 1/7 – range 7d (from=2026-04-25T00:21:09.000Z, to=2026-04-26T00:21:09.000Z)",
       "Segment 1 returned 1000 logs (accumulated 1000).",
-      "Segment 2/7 – range 7d (from=2026-04-17T00:19:28.000Z, to=2026-04-18T00:19:28.000Z)",
+      "Segment 2/7 – range 7d (from=2026-04-24T00:21:09.000Z, to=2026-04-25T00:21:09.000Z)",
       "Segment 2 returned 1000 logs (accumulated 2000).",
-      "Segment 3/7 – range 7d (from=2026-04-16T00:19:28.000Z, to=2026-04-17T00:19:28.000Z)",
+      "Segment 3/7 – range 7d (from=2026-04-23T00:21:09.000Z, to=2026-04-24T00:21:09.000Z)",
       "Segment 3 returned 1000 logs (accumulated 3000).",
-      "Segment 4/7 – range 7d (from=2026-04-15T00:19:28.000Z, to=2026-04-16T00:19:28.000Z)",
+      "Segment 4/7 – range 7d (from=2026-04-22T00:21:09.000Z, to=2026-04-23T00:21:09.000Z)",
       "Segment 4 returned 1000 logs (accumulated 4000).",
-      "Segment 5/7 – range 7d (from=2026-04-14T00:19:28.000Z, to=2026-04-15T00:19:28.000Z)",
+      "Segment 5/7 – range 7d (from=2026-04-21T00:21:09.000Z, to=2026-04-22T00:21:09.000Z)",
       "Segment 5 returned 1000 logs (accumulated 5000).",
-      "Segment 6/7 – range 7d (from=2026-04-13T00:19:28.000Z, to=2026-04-14T00:19:28.000Z)",
+      "Segment 6/7 – range 7d (from=2026-04-20T00:21:09.000Z, to=2026-04-21T00:21:09.000Z)",
       "Segment 6 returned 1000 logs (accumulated 6000).",
-      "Segment 7/7 – range 7d (from=2026-04-12T00:19:28.000Z, to=2026-04-13T00:19:28.000Z)",
+      "Segment 7/7 – range 7d (from=2026-04-19T00:21:09.000Z, to=2026-04-20T00:21:09.000Z)",
       "Segment 7 returned 1000 logs (accumulated 7000).",
       "Completed range 7d: gathered 7000 logs."
     ],
     "totalLogs": 7000,
-    "fetchedAt": 1776558012902,
-    "fetchedAtIso": "2026-04-19T00:20:12.902Z",
-    "fetchedCount": 977,
-    "fetchedBlocked": 151
+    "fetchedAt": 1777162917660,
+    "fetchedAtIso": "2026-04-26T00:21:57.660Z",
+    "fetchedCount": 831,
+    "fetchedBlocked": 280
   }
 }
